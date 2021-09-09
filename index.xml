@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kirshanthan Sundararajah</title>
+    <link>https://kirshanthans.github.io/</link>
+      <atom:link href="https://kirshanthans.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kirshanthan Sundararajah</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kirshanthans.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Kirshanthan Sundararajah</title>
+      <link>https://kirshanthans.github.io/</link>
+    </image>
+    
+    <item>
+      <title>CFM: SIMT Thread Divergence Reduction by Melding Similar Control-Flow Regions in GPGPU Programs</title>
+      <link>https://kirshanthans.github.io/publication/darm2021/</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://kirshanthans.github.io/publication/darm2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HACCLE: An Ecosystem for Building Secure Multi-Party Computations</title>
+      <link>https://kirshanthans.github.io/publication/haccle2020/</link>
+      <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://kirshanthans.github.io/publication/haccle2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Composable, Sound Transformations of Nested Recursion and Loops</title>
+      <link>https://kirshanthans.github.io/publication/pldi2019a/</link>
+      <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://kirshanthans.github.io/publication/pldi2019a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sound, Fine-grained Traversal Fusion for Heterogeneous Trees</title>
+      <link>https://kirshanthans.github.io/publication/pldi2019b/</link>
+      <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://kirshanthans.github.io/publication/pldi2019b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Treelogy: A Benchmark Suite for Tree Traversals</title>
+      <link>https://kirshanthans.github.io/publication/ispass2017/</link>
+      <pubDate>Thu, 12 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://kirshanthans.github.io/publication/ispass2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TreeFuser: A Framework for Analyzing and Fusing General Recursive Tree Traversals</title>
+      <link>https://kirshanthans.github.io/publication/oopsla2017/</link>
+      <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://kirshanthans.github.io/publication/oopsla2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Locality Transformations for Nested Recursive Iteration Spaces</title>
+      <link>https://kirshanthans.github.io/publication/asplos2017/</link>
+      <pubDate>Tue, 04 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://kirshanthans.github.io/publication/asplos2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model-based Input-adaptive Vectorization</title>
+      <link>https://kirshanthans.github.io/publication/mercon2016/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://kirshanthans.github.io/publication/mercon2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Layered Depth Image Based HEVC Multi-view Codec</title>
+      <link>https://kirshanthans.github.io/publication/isvc2014/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://kirshanthans.github.io/publication/isvc2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

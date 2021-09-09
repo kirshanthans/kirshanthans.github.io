@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Kirshanthan Sundararajah</title>
+    <link>https://kirshanthans.github.io/publication_types/3/</link>
+      <atom:link href="https://kirshanthans.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kirshanthans.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>3</title>
+      <link>https://kirshanthans.github.io/publication_types/3/</link>
+    </image>
+    
+    <item>
+      <title>CFM: SIMT Thread Divergence Reduction by Melding Similar Control-Flow Regions in GPGPU Programs</title>
+      <link>https://kirshanthans.github.io/publication/darm2021/</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://kirshanthans.github.io/publication/darm2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HACCLE: An Ecosystem for Building Secure Multi-Party Computations</title>
+      <link>https://kirshanthans.github.io/publication/haccle2020/</link>
+      <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://kirshanthans.github.io/publication/haccle2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
