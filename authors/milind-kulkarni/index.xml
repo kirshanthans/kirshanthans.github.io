@@ -5,7 +5,7 @@
     <link>https://kirshanthans.github.io/authors/milind-kulkarni/</link>
       <atom:link href="https://kirshanthans.github.io/authors/milind-kulkarni/index.xml" rel="self" type="application/rss+xml" />
     <description>Milind Kulkarni</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://kirshanthans.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Milind Kulkarni</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>HACCLE: Metaprogramming for Secure Multi-Party Computation</title>
-      <link>https://kirshanthans.github.io/publication/gpce2021/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://kirshanthans.github.io/publication/gpce2021/</guid>
+      <title>DARM: Control-Flow Melding for SIMT Thread Divergence Reduction</title>
+      <link>https://kirshanthans.github.io/publication/cgo2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://kirshanthans.github.io/publication/cgo2022/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>CFM: SIMT Thread Divergence Reduction by Melding Similar Control-Flow Regions in GPGPU Programs</title>
-      <link>https://kirshanthans.github.io/publication/darm2021/</link>
-      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://kirshanthans.github.io/publication/darm2021/</guid>
+      <title>HACCLE: Metaprogramming for Secure Multi-Party Computation</title>
+      <link>https://kirshanthans.github.io/publication/gpce2021/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://kirshanthans.github.io/publication/gpce2021/</guid>
       <description></description>
     </item>
     
