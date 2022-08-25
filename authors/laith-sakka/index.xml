@@ -1,17 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Laith Sakka on Kirshanthan Sundararajah</title>
+    <title>Laith Sakka | Kirshanthan Sundararajah</title>
     <link>https://kirshanthans.github.io/authors/laith-sakka/</link>
-    <description>Recent content in Laith Sakka on Kirshanthan Sundararajah</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 08 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://kirshanthans.github.io/authors/laith-sakka/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://kirshanthans.github.io/authors/laith-sakka/index.xml" rel="self" type="application/rss+xml" />
+    <description>Laith Sakka</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 08 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kirshanthans.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Laith Sakka</title>
+      <link>https://kirshanthans.github.io/authors/laith-sakka/</link>
+    </image>
+    
     <item>
       <title>Sound, Fine-grained Traversal Fusion for Heterogeneous Trees</title>
       <link>https://kirshanthans.github.io/publication/pldi2019b/</link>
       <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://kirshanthans.github.io/publication/pldi2019b/</guid>
       <description></description>
     </item>
@@ -20,7 +24,6 @@
       <title>TreeFuser: A Framework for Analyzing and Fusing General Recursive Tree Traversals</title>
       <link>https://kirshanthans.github.io/publication/oopsla2017/</link>
       <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://kirshanthans.github.io/publication/oopsla2017/</guid>
       <description></description>
     </item>
@@ -29,7 +32,6 @@
       <title>Locality Transformations for Nested Recursive Iteration Spaces</title>
       <link>https://kirshanthans.github.io/publication/asplos2017/</link>
       <pubDate>Tue, 04 Apr 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://kirshanthans.github.io/publication/asplos2017/</guid>
       <description></description>
     </item>

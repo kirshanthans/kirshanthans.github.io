@@ -1,17 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Charitha Saumya on Kirshanthan Sundararajah</title>
+    <title>Charitha Saumya | Kirshanthan Sundararajah</title>
     <link>https://kirshanthans.github.io/authors/charitha-saumya/</link>
-    <description>Recent content in Charitha Saumya on Kirshanthan Sundararajah</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kirshanthans.github.io/authors/charitha-saumya/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://kirshanthans.github.io/authors/charitha-saumya/index.xml" rel="self" type="application/rss+xml" />
+    <description>Charitha Saumya</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kirshanthans.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Charitha Saumya</title>
+      <link>https://kirshanthans.github.io/authors/charitha-saumya/</link>
+    </image>
+    
     <item>
       <title>SparseLNR: Accelerating Sparse Tensor Computations Using Loop Nest Restructuring</title>
       <link>https://kirshanthans.github.io/publication/ics2022/</link>
       <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://kirshanthans.github.io/publication/ics2022/</guid>
       <description></description>
     </item>
@@ -20,7 +24,6 @@
       <title>DARM: Control-Flow Melding for SIMT Thread Divergence Reduction</title>
       <link>https://kirshanthans.github.io/publication/cgo2022/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://kirshanthans.github.io/publication/cgo2022/</guid>
       <description></description>
     </item>

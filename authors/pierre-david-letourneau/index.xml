@@ -1,17 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pierre-David Letourneau on Kirshanthan Sundararajah</title>
+    <title>Pierre-David Letourneau | Kirshanthan Sundararajah</title>
     <link>https://kirshanthans.github.io/authors/pierre-david-letourneau/</link>
-    <description>Recent content in Pierre-David Letourneau on Kirshanthan Sundararajah</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://kirshanthans.github.io/authors/pierre-david-letourneau/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://kirshanthans.github.io/authors/pierre-david-letourneau/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pierre-David Letourneau</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kirshanthans.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Pierre-David Letourneau</title>
+      <link>https://kirshanthans.github.io/authors/pierre-david-letourneau/</link>
+    </image>
+    
     <item>
       <title>HACCLE: Metaprogramming for Secure Multi-Party Computation</title>
       <link>https://kirshanthans.github.io/publication/gpce2021/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://kirshanthans.github.io/publication/gpce2021/</guid>
       <description></description>
     </item>
