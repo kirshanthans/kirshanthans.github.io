@@ -5,12 +5,20 @@
     <link>https://kirshanthans.github.io/authors/milind-kulkarni/</link>
       <atom:link href="https://kirshanthans.github.io/authors/milind-kulkarni/index.xml" rel="self" type="application/rss+xml" />
     <description>Milind Kulkarni</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://kirshanthans.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Milind Kulkarni</title>
       <link>https://kirshanthans.github.io/authors/milind-kulkarni/</link>
     </image>
+    
+    <item>
+      <title>UniRec: A Unimodular-Like Framework for Nested Recursions and Loops</title>
+      <link>https://kirshanthans.github.io/publication/oopsla2022/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://kirshanthans.github.io/publication/oopsla2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SparseLNR: Accelerating Sparse Tensor Computations Using Loop Nest Restructuring</title>
