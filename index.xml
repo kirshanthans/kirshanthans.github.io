@@ -5,12 +5,20 @@
     <link>https://kirshanthans.github.io/</link>
       <atom:link href="https://kirshanthans.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Kirshanthan Sundararajah</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://kirshanthans.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Kirshanthan Sundararajah</title>
       <link>https://kirshanthans.github.io/</link>
     </image>
+    
+    <item>
+      <title>HyBF: A Hybrid Branch Fusion Strategy for Code Size Reduction</title>
+      <link>https://kirshanthans.github.io/publication/cc2023/</link>
+      <pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://kirshanthans.github.io/publication/cc2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>UniRec: A Unimodular-Like Framework for Nested Recursions and Loops</title>
