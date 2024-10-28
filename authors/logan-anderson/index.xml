@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Logan Anderson | Kirshanthan (&#34;Krish&#34;) Sundararajah</title>
+    <link>https://kirshanthans.github.io/authors/logan-anderson/</link>
+      <atom:link href="https://kirshanthans.github.io/authors/logan-anderson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Logan Anderson</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 08 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kirshanthans.github.io/media/icon_huf8cc3531f7500ee9d89ebc0c92f85f5e_75494_512x512_fill_lanczos_center_3.png</url>
+      <title>Logan Anderson</title>
+      <link>https://kirshanthans.github.io/authors/logan-anderson/</link>
+    </image>
+    
+    <item>
+      <title>SparseAuto: An Auto-scheduler for Sparse Tensor Computations using Recursive Loop Nest Restructuring</title>
+      <link>https://kirshanthans.github.io/publication/2024oopsla/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://kirshanthans.github.io/publication/2024oopsla/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

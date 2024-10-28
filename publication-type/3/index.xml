@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Kirshanthan (&#34;Krish&#34;) Sundararajah</title>
+    <link>https://kirshanthans.github.io/publication-type/3/</link>
+      <atom:link href="https://kirshanthans.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kirshanthans.github.io/media/icon_huf8cc3531f7500ee9d89ebc0c92f85f5e_75494_512x512_fill_lanczos_center_3.png</url>
+      <title>3</title>
+      <link>https://kirshanthans.github.io/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>SABLE: Staging Blocked Evaluation of Sparse Matrix Computations</title>
+      <link>https://kirshanthans.github.io/publication/2024arxiva/</link>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://kirshanthans.github.io/publication/2024arxiva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Targeted Control-flow Transformations for Mitigating Path Explosion in Dynamic Symbolic Execution</title>
+      <link>https://kirshanthans.github.io/publication/2023arxiv/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://kirshanthans.github.io/publication/2023arxiv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

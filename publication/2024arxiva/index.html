@@ -78,7 +78,7 @@
   
     
   
-  <meta name="description" content="" />
+  <meta name="description" content="Sparse Matrices found in the real world often have some structure in how the dense elements are organized. While the inspector-executor model inspects matrices for structure, its generality can overlook further specialization. We propose a system that - if the sparse matrix is stored in a blocked storage format - can generate more efficient code by constructing regular loops over these blocks. Our system performs a specified computation over every element of the block instead of avoiding computing any sparse element at all and achieving regularity in specialized code. The system is extensible, providing a dense block iterator for the user to express any computation over these dense blocks. We show that this approach can significantly speed up SpMV and SpMM operations over the state-of-the-art systems Partially-Strided Codelets and Sparse Register Tiling." />
 
   
   <link rel="alternate" hreflang="en-us" href="https://kirshanthans.github.io/publication/2024arxiva/" />
@@ -90,6 +90,9 @@
   
 
   
+  
+    
+    <script src="/js/mathjax-config.js"></script>
   
 
   
@@ -207,9 +210,9 @@
 
       
       
-        
-      
 
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
       
     
       
@@ -310,12 +313,17 @@
   
   <meta property="og:site_name" content="Kirshanthan (&#34;Krish&#34;) Sundararajah" />
   <meta property="og:url" content="https://kirshanthans.github.io/publication/2024arxiva/" />
-  <meta property="og:title" content="Kirshanthan (&#34;Krish&#34;) Sundararajah" />
-  <meta property="og:description" content="" /><meta property="og:image" content="https://kirshanthans.github.io/media/icon_huf8cc3531f7500ee9d89ebc0c92f85f5e_75494_512x512_fill_lanczos_center_3.png" />
+  <meta property="og:title" content="SABLE: Staging Blocked Evaluation of Sparse Matrix Computations | Kirshanthan (&#34;Krish&#34;) Sundararajah" />
+  <meta property="og:description" content="Sparse Matrices found in the real world often have some structure in how the dense elements are organized. While the inspector-executor model inspects matrices for structure, its generality can overlook further specialization. We propose a system that - if the sparse matrix is stored in a blocked storage format - can generate more efficient code by constructing regular loops over these blocks. Our system performs a specified computation over every element of the block instead of avoiding computing any sparse element at all and achieving regularity in specialized code. The system is extensible, providing a dense block iterator for the user to express any computation over these dense blocks. We show that this approach can significantly speed up SpMV and SpMM operations over the state-of-the-art systems Partially-Strided Codelets and Sparse Register Tiling." /><meta property="og:image" content="https://kirshanthans.github.io/media/icon_huf8cc3531f7500ee9d89ebc0c92f85f5e_75494_512x512_fill_lanczos_center_3.png" />
     <meta property="twitter:image" content="https://kirshanthans.github.io/media/icon_huf8cc3531f7500ee9d89ebc0c92f85f5e_75494_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
+      <meta
+        property="article:published_time"
+        content="2024-04-03T00:00:00&#43;00:00"
+      />
     
+    <meta property="article:modified_time" content="2024-04-03T00:00:00&#43;00:00">
   
 
   
@@ -339,10 +347,15 @@
     "@type": "WebPage",
     "@id": "https://kirshanthans.github.io/publication/2024arxiva/"
   },
-  "headline": "",
+  "headline": "SABLE: Staging Blocked Evaluation of Sparse Matrix Computations",
   
-  "datePublished": "0001-01-01T00:00:00Z",
-  "dateModified": "0001-01-01T00:00:00Z",
+  "datePublished": "2024-04-03T00:00:00Z",
+  "dateModified": "2024-04-03T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Pratyush Das"
+  },
   
   "publisher": {
     "@type": "Organization",
@@ -352,7 +365,7 @@
       "url": "https://kirshanthans.github.io/media/icon_huf8cc3531f7500ee9d89ebc0c92f85f5e_75494_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": ""
+  "description": "Sparse Matrices found in the real world often have some structure in how the dense elements are organized. While the inspector-executor model inspects matrices for structure, its generality can overlook further specialization. We propose a system that - if the sparse matrix is stored in a blocked storage format - can generate more efficient code by constructing regular loops over these blocks. Our system performs a specified computation over every element of the block instead of avoiding computing any sparse element at all and achieving regularity in specialized code. The system is extensible, providing a dense block iterator for the user to express any computation over these dense blocks. We show that this approach can significantly speed up SpMV and SpMM operations over the state-of-the-art systems Partially-Strided Codelets and Sparse Register Tiling."
 }
 </script>
 
@@ -363,7 +376,7 @@
   
 
 
-  <title>Kirshanthan (&#34;Krish&#34;) Sundararajah</title>
+  <title>SABLE: Staging Blocked Evaluation of Sparse Matrix Computations | Kirshanthan (&#34;Krish&#34;) Sundararajah</title>
 
   
   
@@ -752,7 +765,7 @@
   
   
 <div class="article-container pt-3">
-  <h1></h1>
+  <h1>SABLE: Staging Blocked Evaluation of Sparse Matrix Computations</h1>
 
   
 
@@ -764,6 +777,21 @@
 
   
   
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/authors/pratyush-das/">Pratyush Das</a></span>, <span >
+      <a href="/authors/adhitha-dias/">Adhitha Dias</a></span>, <span >
+      <a href="/authors/anxhelo-xhebraj/">Anxhelo Xhebraj</a></span>, <span >
+      <a href="/authors/artem-pelenitsyn/">Artem Pelenitsyn</a></span>, <span >
+      <a href="/authors/kirshanthan-sundararajah/">Kirshanthan Sundararajah</a></span>, <span >
+      <a href="/authors/milind-kulkarni/">Milind Kulkarni</a></span>
+  </div>
+  
+  
 
   
   <span class="article-date">
@@ -771,7 +799,7 @@
     
       
     
-    January, 0001
+    April, 2024
   </span>
   
 
@@ -794,6 +822,45 @@
 
 
 
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header" href="https://arxiv.org/pdf/2407.00829" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
 
   
 </div>
@@ -803,8 +870,27 @@
   <div class="article-container">
 
     
+    <h3>Abstract</h3>
+    <p class="pub-abstract">Sparse Matrices found in the real world often have some structure in how the dense elements are organized. While the inspector-executor model inspects matrices for structure, its generality can overlook further specialization. We propose a system that - if the sparse matrix is stored in a blocked storage format - can generate more efficient code by constructing regular loops over these blocks. Our system performs a specified computation over every element of the block instead of avoiding computing any sparse element at all and achieving regularity in specialized code. The system is extensible, providing a dense block iterator for the user to express any computation over these dense blocks. We show that this approach can significantly speed up SpMV and SpMM operations over the state-of-the-art systems Partially-Strided Codelets and Sparse Register Tiling.</p>
+    
 
     
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            <a href="/publication/#3">
+              Preprint
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
     
 
     
@@ -832,7 +918,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://kirshanthans.github.io/publication/2024arxiva/&amp;text=" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://kirshanthans.github.io/publication/2024arxiva/&amp;text=SABLE:%20Staging%20Blocked%20Evaluation%20of%20Sparse%20Matrix%20Computations" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -845,7 +931,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://kirshanthans.github.io/publication/2024arxiva/&amp;t=" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook-f">
+        <a href="https://www.facebook.com/sharer.php?u=https://kirshanthans.github.io/publication/2024arxiva/&amp;t=SABLE:%20Staging%20Blocked%20Evaluation%20of%20Sparse%20Matrix%20Computations" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook-f">
           <i class="fab fa-facebook-f"></i>
         </a>
       </li>
@@ -858,7 +944,7 @@
       
       
       <li>
-        <a href="mailto:?subject=&amp;body=https://kirshanthans.github.io/publication/2024arxiva/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=SABLE:%20Staging%20Blocked%20Evaluation%20of%20Sparse%20Matrix%20Computations&amp;body=https://kirshanthans.github.io/publication/2024arxiva/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -871,7 +957,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://kirshanthans.github.io/publication/2024arxiva/&amp;title=" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https://kirshanthans.github.io/publication/2024arxiva/&amp;title=SABLE:%20Staging%20Blocked%20Evaluation%20of%20Sparse%20Matrix%20Computations" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -884,7 +970,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=%20https://kirshanthans.github.io/publication/2024arxiva/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="https://web.whatsapp.com/send?text=SABLE:%20Staging%20Blocked%20Evaluation%20of%20Sparse%20Matrix%20Computations%20https://kirshanthans.github.io/publication/2024arxiva/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -897,7 +983,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://kirshanthans.github.io/publication/2024arxiva/&amp;title=" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://kirshanthans.github.io/publication/2024arxiva/&amp;title=SABLE:%20Staging%20Blocked%20Evaluation%20of%20Sparse%20Matrix%20Computations" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -917,130 +1003,42 @@
 
   
   
+    
+
 
 
 
   
-  
-  
-    
-  
-  
-  
-  <div class="media author-card content-widget-hr">
-    
-      
-      <a href="https://kirshanthans.github.io/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu5a967b4196efe034c4e00529a4711235_6755293_270x270_fill_q75_lanczos_center.jpg" alt=""></a>
     
 
-    <div class="media-body">
-      <h5 class="card-title"><a href="https://kirshanthans.github.io/"></a></h5>
-      <h6 class="card-subtitle">Assistant Professor</h6>
-      <p class="card-text">My research interests include compilers, programming languages and high performance computing.</p>
-      <ul class="network-icon" aria-hidden="true">
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-    <li>
-      <a href="mailto:kirshanthans@vt.edu" >
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://twitter.com/Kirshanthan" target="_blank" rel="noopener">
-        <i class="fab fa-twitter"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://scholar.google.com/citations?hl=en&amp;user=knUrjrMAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" target="_blank" rel="noopener">
-        <i class="ai ai-google-scholar"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://github.com/kirshanthans" target="_blank" rel="noopener">
-        <i class="fab fa-github"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://www.linkedin.com/in/kirshanthan" target="_blank" rel="noopener">
-        <i class="fab fa-linkedin"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="/files/cv-resume/academic_cv.pdf" >
-        <i class="ai ai-cv"></i>
-      </a>
-    </li>
-  
-</ul>
-
-    </div>
-  </div>
 
 
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
 
 
 
