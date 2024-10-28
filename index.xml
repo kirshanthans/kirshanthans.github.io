@@ -14,129 +14,137 @@
     
     <item>
       <title>Targeted Control-flow Transformations for Mitigating Path Explosion in Dynamic Symbolic Execution</title>
-      <link>https://kirshanthans.github.io/publication/arxiv2023/</link>
+      <link>https://kirshanthans.github.io/publication/2023arxiv/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://kirshanthans.github.io/publication/arxiv2023/</guid>
+      <guid>https://kirshanthans.github.io/publication/2023arxiv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HyBF: A Hybrid Branch Fusion Strategy for Code Size Reduction</title>
-      <link>https://kirshanthans.github.io/publication/cc2023/</link>
+      <link>https://kirshanthans.github.io/publication/2023cc/</link>
       <pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://kirshanthans.github.io/publication/cc2023/</guid>
+      <guid>https://kirshanthans.github.io/publication/2023cc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>UniRec: A Unimodular-Like Framework for Nested Recursions and Loops</title>
-      <link>https://kirshanthans.github.io/publication/oopsla2022/</link>
+      <link>https://kirshanthans.github.io/publication/2022oopsla/</link>
       <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://kirshanthans.github.io/publication/oopsla2022/</guid>
+      <guid>https://kirshanthans.github.io/publication/2022oopsla/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SparseLNR: Accelerating Sparse Tensor Computations Using Loop Nest Restructuring</title>
-      <link>https://kirshanthans.github.io/publication/ics2022/</link>
+      <link>https://kirshanthans.github.io/publication/2022ics/</link>
       <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://kirshanthans.github.io/publication/ics2022/</guid>
+      <guid>https://kirshanthans.github.io/publication/2022ics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DARM: Control-Flow Melding for SIMT Thread Divergence Reduction</title>
-      <link>https://kirshanthans.github.io/publication/cgo2022/</link>
+      <link>https://kirshanthans.github.io/publication/2022cgo/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://kirshanthans.github.io/publication/cgo2022/</guid>
+      <guid>https://kirshanthans.github.io/publication/2022cgo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HACCLE: Metaprogramming for Secure Multi-Party Computation</title>
-      <link>https://kirshanthans.github.io/publication/gpce2021/</link>
+      <link>https://kirshanthans.github.io/publication/2021gpce/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://kirshanthans.github.io/publication/gpce2021/</guid>
+      <guid>https://kirshanthans.github.io/publication/2021gpce/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Composable, Sound Transformations of Nested Recursion and Loops</title>
-      <link>https://kirshanthans.github.io/publication/pldi2019a/</link>
+      <link>https://kirshanthans.github.io/publication/2019pldia/</link>
       <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://kirshanthans.github.io/publication/pldi2019a/</guid>
+      <guid>https://kirshanthans.github.io/publication/2019pldia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sound, Fine-grained Traversal Fusion for Heterogeneous Trees</title>
-      <link>https://kirshanthans.github.io/publication/pldi2019b/</link>
+      <link>https://kirshanthans.github.io/publication/2019pldib/</link>
       <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://kirshanthans.github.io/publication/pldi2019b/</guid>
+      <guid>https://kirshanthans.github.io/publication/2019pldib/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Treelogy: A Benchmark Suite for Tree Traversals</title>
-      <link>https://kirshanthans.github.io/publication/ispass2017/</link>
+      <link>https://kirshanthans.github.io/publication/2017ispass/</link>
       <pubDate>Thu, 12 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://kirshanthans.github.io/publication/ispass2017/</guid>
+      <guid>https://kirshanthans.github.io/publication/2017ispass/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TreeFuser: A Framework for Analyzing and Fusing General Recursive Tree Traversals</title>
-      <link>https://kirshanthans.github.io/publication/oopsla2017/</link>
+      <link>https://kirshanthans.github.io/publication/2017oopsla/</link>
       <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://kirshanthans.github.io/publication/oopsla2017/</guid>
+      <guid>https://kirshanthans.github.io/publication/2017oopsla/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Locality Transformations for Nested Recursive Iteration Spaces</title>
-      <link>https://kirshanthans.github.io/publication/asplos2017/</link>
+      <link>https://kirshanthans.github.io/publication/2017asplos/</link>
       <pubDate>Tue, 04 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://kirshanthans.github.io/publication/asplos2017/</guid>
+      <guid>https://kirshanthans.github.io/publication/2017asplos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Model-based Input-adaptive Vectorization</title>
-      <link>https://kirshanthans.github.io/publication/mercon2016/</link>
+      <link>https://kirshanthans.github.io/publication/2016mercon/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://kirshanthans.github.io/publication/mercon2016/</guid>
+      <guid>https://kirshanthans.github.io/publication/2016mercon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Layered Depth Image Based HEVC Multi-view Codec</title>
-      <link>https://kirshanthans.github.io/publication/isvc2014/</link>
+      <link>https://kirshanthans.github.io/publication/2014isvc/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>https://kirshanthans.github.io/publication/isvc2014/</guid>
+      <guid>https://kirshanthans.github.io/publication/2014isvc/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://kirshanthans.github.io/publication/arxiv2024a/</link>
+      <link>https://kirshanthans.github.io/publication/2024arxiva/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kirshanthans.github.io/publication/arxiv2024a/</guid>
+      <guid>https://kirshanthans.github.io/publication/2024arxiva/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://kirshanthans.github.io/publication/oopsla2024/</link>
+      <link>https://kirshanthans.github.io/publication/2024arxivb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kirshanthans.github.io/publication/oopsla2024/</guid>
+      <guid>https://kirshanthans.github.io/publication/2024arxivb/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://kirshanthans.github.io/publication/taco2024/</link>
+      <link>https://kirshanthans.github.io/publication/2024oopsla/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kirshanthans.github.io/publication/taco2024/</guid>
+      <guid>https://kirshanthans.github.io/publication/2024oopsla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kirshanthans.github.io/publication/2024taco/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kirshanthans.github.io/publication/2024taco/</guid>
       <description></description>
     </item>
     

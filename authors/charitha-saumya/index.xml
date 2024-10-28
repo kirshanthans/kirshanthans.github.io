@@ -14,41 +14,41 @@
     
     <item>
       <title>Targeted Control-flow Transformations for Mitigating Path Explosion in Dynamic Symbolic Execution</title>
-      <link>https://kirshanthans.github.io/publication/arxiv2023/</link>
+      <link>https://kirshanthans.github.io/publication/2023arxiv/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://kirshanthans.github.io/publication/arxiv2023/</guid>
+      <guid>https://kirshanthans.github.io/publication/2023arxiv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HyBF: A Hybrid Branch Fusion Strategy for Code Size Reduction</title>
-      <link>https://kirshanthans.github.io/publication/cc2023/</link>
+      <link>https://kirshanthans.github.io/publication/2023cc/</link>
       <pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://kirshanthans.github.io/publication/cc2023/</guid>
+      <guid>https://kirshanthans.github.io/publication/2023cc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>UniRec: A Unimodular-Like Framework for Nested Recursions and Loops</title>
-      <link>https://kirshanthans.github.io/publication/oopsla2022/</link>
+      <link>https://kirshanthans.github.io/publication/2022oopsla/</link>
       <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://kirshanthans.github.io/publication/oopsla2022/</guid>
+      <guid>https://kirshanthans.github.io/publication/2022oopsla/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SparseLNR: Accelerating Sparse Tensor Computations Using Loop Nest Restructuring</title>
-      <link>https://kirshanthans.github.io/publication/ics2022/</link>
+      <link>https://kirshanthans.github.io/publication/2022ics/</link>
       <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://kirshanthans.github.io/publication/ics2022/</guid>
+      <guid>https://kirshanthans.github.io/publication/2022ics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DARM: Control-Flow Melding for SIMT Thread Divergence Reduction</title>
-      <link>https://kirshanthans.github.io/publication/cgo2022/</link>
+      <link>https://kirshanthans.github.io/publication/2022cgo/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://kirshanthans.github.io/publication/cgo2022/</guid>
+      <guid>https://kirshanthans.github.io/publication/2022cgo/</guid>
       <description></description>
     </item>
     
