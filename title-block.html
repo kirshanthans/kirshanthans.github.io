@@ -1,0 +1,18 @@
+$if(title)$
+<div class="pub-page-header">
+  <h1 class="pub-page-title">$title$</h1>
+  $if(by-author)$
+  <div class="pub-page-authors">$for(by-author)$$it.name.literal$$sep$, $endfor$</div>
+  $endif$
+  $if(venue)$
+  <div class="pub-page-venue">$venue$</div>
+  $endif$
+  $if(preprint)$<a href="$preprint$" class="pub-link-btn" target="_blank">Preprint</a>$endif$
+  $if(pdf)$<a href="$pdf$" class="pub-link-btn" target="_blank">PDF</a>$endif$
+  $if(code)$<a href="$code$" class="pub-link-btn" target="_blank">Code</a>$endif$
+  $if(slides)$<a href="$slides$" class="pub-link-btn" target="_blank">Slides</a>$endif$
+  $if(abstract)$
+  <div class="pub-page-abstract">$abstract$</div>
+  $endif$
+</div>
+$endif$

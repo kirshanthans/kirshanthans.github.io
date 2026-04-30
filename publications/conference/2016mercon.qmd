@@ -1,0 +1,17 @@
+---
+title: "Model-based Input-adaptive Vectorization"
+date: 2016-04-01
+year: 2016
+pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7480117"
+venue: "MERCon 2016"
+code: ""
+slides: ""
+preprint: ""
+video: ""
+author:
+  - name: Kirshanthan Sundararajah
+  - name: Sanath Jayasena
+categories:
+  - Conference
+description: ""
+---

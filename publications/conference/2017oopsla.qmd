@@ -1,0 +1,18 @@
+---
+title: "TreeFuser: A Framework for Analyzing and Fusing General Recursive Tree Traversals"
+date: 2017-10-24
+year: 2017
+pdf: "https://dl.acm.org/doi/pdf/10.1145/3133900"
+venue: "OOPSLA 2017"
+code: "https://github.com/laithsakka/Grafter"
+slides: ""
+preprint: ""
+video: "https://www.youtube.com/watch?v=WDHlP6g5rxo&ab_channel=SplashConference2017"
+author:
+  - name: Laith Sakka
+  - name: Kirshanthan Sundararajah
+  - name: Milind Kulkarni
+categories:
+  - Conference
+description: ""
+---

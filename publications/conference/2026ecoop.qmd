@@ -1,0 +1,20 @@
+---
+title: "Eliminate Branches by Melding IR Instructions"
+date: 2026-06-29
+year: 2026
+pdf: ""
+venue: "ECOOP 2026"
+code: ""
+slides: ""
+preprint: "https://arxiv.org/pdf/2512.22390"
+video: ""
+author:
+  - name: Yuze Li
+  - name: Srinivasan Ramachandra Sharma
+  - name: Charitha Saumya
+  - name: Ali R. Butt
+  - name: Kirshanthan Sundararajah
+categories:
+  - Conference
+description: ""
+---

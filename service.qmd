@@ -1,0 +1,53 @@
+---
+title: Service
+---
+
+## 2026
+
+| | |
+|:--|--:|
+|Program Committee ([ICPP](https://icpp2026.github.io/technical-committee/)) | 2026 |
+|Program Committee ([OOPSLA](https://2026.splashcon.org/committee/oopsla-2026-review-committee)) | 2026 |
+|Program Committee ([PPoPP](https://ppopp26.sigplan.org/committee/PPoPP-2026-papers-program-committee)) | 2026 |
+
+## 2025
+
+| | |
+|:--|--:|
+|Program Committee ([PLDI SRC](https://pldi25.sigplan.org/committee/pldi-2025-src-program-committee)) | 2025 |
+|Program Committee ([PLDI](https://pldi25.sigplan.org/committee/pldi-2025-papers-pldi-review-committee)) | 2025 |
+|Program Committee ([PPoPP](https://ppopp25.sigplan.org/committee/PPoPP-2025-Main-Conference-1-program-committee)) | 2025 |
+|Program Committee ([CGO](https://2025.cgo.org/committee/cgo-2025-papers-program-committee)) | 2025 |
+
+## 2024
+
+| | |
+|:--|--:|
+|Program Committee ([PLDI SRC](https://pldi24.sigplan.org/committee/pldi-2024-src-organizing-committee)) | 2024 |
+|Program Committee ([CC](https://conf.researchr.org/committee/CC-2024/CC-2024-papers-program-committee)) | 2024 |
+
+## 2023
+
+| | |
+|:--|--:|
+|Registration Chair ([PPoPP](https://ppopp23.sigplan.org/committee/PPoPP-2023-organizing-committee)) | 2023 |
+
+## 2022
+
+| | |
+|:--|--:|
+|Project for Inclusion in ECE ([PIECE](https://engineering.purdue.edu/ECE/AboutUs/Diversity)) Committee | 2022 |
+|External Review Committee ([OOPSLA](https://2022.splashcon.org/committee/splash-2022-Artifacts-artifact-evaluation-committee)) | 2022 |
+|Artifact Evaluation Committee ([OOPSLA](https://2022.splashcon.org/committee/splash-2022-Artifacts-artifact-evaluation-committee)) | 2022 |
+
+## 2020
+
+| | |
+|:--|--:|
+|Artifact Evaluation Committee ([PLDI](https://pldi20.sigplan.org/committee/pldi-2020-PLDI-Research-Artifacts-artifact-evaluation-committee)) | 2020 |
+
+## 2019
+
+| | |
+|:--|--:|
+|Program Committee ([ECOOP Doctoral Symposium](https://2019.ecoop.org/committee/ecoop-2019-docsymp-program-committee)) | 2019 |

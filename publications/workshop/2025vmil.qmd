@@ -1,0 +1,23 @@
+---
+title: "Memory Tiering in Python Virtual Machine"
+date: 2025-10-09
+year: 2025
+pdf: "https://dl.acm.org/doi/pdf/10.1145/3759548.3763372"
+venue: "VMIL 2025"
+code: ""
+slides: "files/slides/vmil2026.pptx"
+preprint: ""
+video: ""
+author:
+  - name: Yuze Li
+  - name: Shunyu Yao
+  - name: Jaiaid Mobin
+  - name: Tianyu Zhan
+  - name: M. Mustafa Rafique
+  - name: Dimitrios Nikolopoulos
+  - name: Kirshanthan Sundararajah
+  - name: Ali R. Butt
+categories:
+  - Workshop
+description: ""
+---

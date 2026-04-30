@@ -1,0 +1,19 @@
+---
+title: "Treelogy: A Benchmark Suite for Tree Traversals"
+date: 2017-10-12
+year: 2017
+pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7975294"
+venue: "ISPASS 2017"
+code: "https://bitbucket.org/plcl/treelogy"
+slides: "files/slides/ispass2017.pdf"
+preprint: ""
+video: ""
+author:
+  - name: Nikhil Hegde
+  - name: Jianqiao Liu
+  - name: Kirshanthan Sundararajah
+  - name: Milind Kulkarni
+categories:
+  - Conference
+description: ""
+---

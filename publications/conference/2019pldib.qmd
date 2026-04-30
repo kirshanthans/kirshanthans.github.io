@@ -1,0 +1,19 @@
+---
+title: "Sound, Fine-grained Traversal Fusion for Heterogeneous Trees"
+date: 2019-06-08
+year: 2019
+pdf: "https://dl.acm.org/doi/pdf/10.1145/3314221.3314626"
+venue: "PLDI 2019"
+code: "https://github.com/laithsakka/Grafter"
+slides: ""
+preprint: "https://arxiv.org/pdf/1904.07061.pdf"
+video: "https://www.youtube.com/watch?v=j2henSFtZds&ab_channel=laithsakka"
+author:
+  - name: Laith Sakka
+  - name: Kirshanthan Sundararajah
+  - name: Ryan R. Newton
+  - name: Milind Kulkarni
+categories:
+  - Conference
+description: ""
+---

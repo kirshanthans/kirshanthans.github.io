@@ -1,0 +1,11 @@
+---
+name: "Srinivasan Ramachandra Sharma"
+date: 2024-01-01
+period: "MS: Spring 2024 – Summer 2025"
+topic: "Compiler Transformations for Improving Branch Prediction"
+website: "https://thesrsakabuvttchi.github.io/website/"
+position: Qualcomm
+publications:
+  - venue: "ECOOP 2026"
+    path: "publications/conference/2026ecoop.html"
+---

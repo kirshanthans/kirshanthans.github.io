@@ -1,0 +1,26 @@
+---
+title: Students
+listing:
+  - id: current-students
+    contents: students/current/*.qmd
+    sort: "date"
+    type: custom
+    template: _student-listing.ejs
+    fields: [name, period, topic, website, publications]
+  - id: former-students
+    contents: students/former/*.qmd
+    sort: "date"
+    type: custom
+    template: _student-listing.ejs
+    fields: [name, period, topic, website, position, publications]
+---
+
+## Current Students
+
+:::{#current-students}
+:::
+
+## Former Students
+
+:::{#former-students}
+:::

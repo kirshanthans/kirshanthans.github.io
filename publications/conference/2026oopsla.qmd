@@ -1,0 +1,20 @@
+---
+title: "Taming the Hydra: Targeted Control-Flow Transformations for Dynamic Symbolic Execution"
+date: 2026-04-09
+year: 2026
+pdf: "https://dl.acm.org/doi/pdf/10.1145/3798202"
+venue: "OOPSLA 2026"
+code: "https://zenodo.org/records/19115620"
+slides: ""
+preprint: "https://arxiv.org/pdf/2308.01554.pdf"
+video: ""
+author:
+  - name: Charitha Saumya
+  - name: Muhammad Hassan
+  - name: Rohan Gangaraju
+  - name: Milind Kulkarni
+  - name: Kirshanthan Sundararajah
+categories:
+  - Conference
+description: ""
+---

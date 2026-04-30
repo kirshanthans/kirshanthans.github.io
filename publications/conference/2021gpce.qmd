@@ -1,0 +1,35 @@
+---
+title: "HACCLE: Metaprogramming for Secure Multi-Party Computation"
+date: 2021-10-01
+year: 2021
+pdf: "https://dl.acm.org/doi/pdf/10.1145/3486609.3487205"
+venue: "GPCE 2021"
+code: "https://github.com/YuyanBao/HACCLE"
+slides: "files/slides/gpce2021.pptx"
+preprint: "https://arxiv.org/pdf/2009.01489.pdf"
+video: "https://youtu.be/D17BL-8Dq0Q"
+author:
+  - name: Yuyan Bao
+  - name: Kirshanthan Sundararajah
+  - name: Raghav Malik
+  - name: Qianchuan Ye
+  - name: Christopher Wagner
+  - name: Nouraldin Jaber
+  - name: Fei Wang
+  - name: Mohammad Hassan Ameri
+  - name: Donghang Lu
+  - name: Alexander Seto
+  - name: Benjamin Delaware
+  - name: Roopsha Samanta
+  - name: Aniket Kate
+  - name: Christina Garman
+  - name: Jeremiah Blocki
+  - name: Pierre-David Letourneau
+  - name: Benoit Meister
+  - name: Jonathan Springer
+  - name: Tiark Rompf
+  - name: Milind Kulkarni
+categories:
+  - Conference
+description: ""
+---

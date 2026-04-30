@@ -1,0 +1,20 @@
+---
+title: "Orchard: Heterogeneous Parallelism and Fine-grained Fusion for Complex Tree Traversals"
+date: 2024-05-21
+year: 2024
+pdf: "https://dl.acm.org/doi/pdf/10.1145/3652605"
+venue: "TACO 2024"
+code: "https://github.com/vidsinghal/Orchard"
+slides: ""
+preprint: ""
+video: ""
+author:
+  - name: Vidush Singhal
+  - name: Laith Sakka
+  - name: Kirshanthan Sundararajah
+  - name: Ryan R Newton
+  - name: Milind Kulkarni
+categories:
+  - Journal
+description: ""
+---

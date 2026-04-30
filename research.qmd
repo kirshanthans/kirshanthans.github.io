@@ -1,0 +1,37 @@
+---
+title: Research
+---
+
+## Regularization of Control-flow
+
+Programs often contain branches and divergent control-flow that pose challenges for both performance and correctness. On SIMT (GPU) architectures, thread divergence — where threads in a warp take different paths — forces serialization and dramatically reduces throughput. Even outside GPUs, irregular branch structure inflates code size and complicates program analysis tools like dynamic symbolic execution, which must exhaustively explore exponentially many paths. This research develops compiler transformations that regularize control-flow — melding, fusing, and restructuring branches so that divergence is reduced, code size decreases, and analysis tools can reason more effectively about program behavior.
+
+[CGO 2022](publications/conference/2022cgo.qmd) |
+[CC 2023](publications/conference/2023cc.qmd) | 
+
+[OOPSLA 2026](publications/conference/2026oopsla.qmd) | 
+[ECOOP 2026](publications/conference/2026ecoop.qmd)
+
+## Sparse Tensor Compilation
+
+Sparse tensors and matrices, where the vast majority of entries are zero, arise naturally in scientific computing, graph analytics, and machine learning. While sparsity enables large-scale computations that would otherwise be infeasible in memory and time, it introduces data-dependent, irregular access patterns that defeat the loop optimizations at the heart of modern high-performance compilers. Standard techniques like tiling and reordering cannot be applied blindly when iteration depends on the nonzero structure of the data. This research builds compiler infrastructure to automatically schedule and restructure sparse tensor computations — including blocked and fused execution strategies — and develops testing frameworks to verify that the compilers themselves are correct.
+
+[ICS 2022](publications/conference/2022ics.qmd) |
+[OOPSLA 2024](publications/conference/2024oopsla.qmd) | 
+
+[ARXIV 2026](publications/manuscript/2026arxiva.qmd) |
+[FUZZING 2026](publications/workshop/2026fuzzing.qmd) 
+
+## Optimizing Recursive Programs
+
+Tree traversals, N-body simulations, and other pointer-based recursive algorithms are fundamental to computing, yet decades of compiler optimization theory — loop fusion, tiling, interchange — was built around loop nests and does not directly apply to recursive programs. The irregular, pointer-chasing nature of these computations makes memory access patterns unpredictable and hides opportunities for parallelism and locality improvement. This research develops a principled foundation for transforming recursive programs, analogous to the polyhedral model for loops, enabling sound fusion, reordering, and locality transformations of nested recursive traversals and explores novel hardware substrates such as ray-tracing cores to further accelerate them.
+
+[ASPLOS 2017](publications/conference/2017asplos.qmd) |
+[OOPSLA 2017](publications/conference/2017oopsla.qmd) |
+[ISPASS 2017](publications/conference/2017ispass.qmd) |
+
+[PLDI 2019a](publications/conference/2019pldia.qmd) |
+[PLDI 2019b](publications/conference/2019pldib.qmd) |
+[OOPSLA 2022](publications/conference/2022oopsla.qmd) |
+
+[PPoPP 2025](publications/conference/2025ppopp.qmd)

@@ -1,0 +1,29 @@
+<% for (const item of items) { %>
+<%
+  let authorStr = '';
+  if (item.author) {
+    if (Array.isArray(item.author)) {
+      authorStr = item.author.map(a => typeof a === 'object' ? a.name : a).join(', ');
+    } else {
+      authorStr = String(item.author);
+    }
+  }
+  const name = item.name || '';
+  const period = item.period || '';
+  const topic = item.topic || '';
+  const position = item.position || '';
+  const website = item.website || '';
+%>
+<div class="student-card">
+<div class="student-name-row"><span class="student-name"><%- name %></span><% if (website) { %><a href="<%= website %>" target="_blank" class="student-website-btn">Website</a><% } %></div>
+<div class="student-period"><%- period %></div>
+<div class="student-topic">Topic: <%- topic %></div>
+<% if (position) { %><div class="student-position">First Position: <%- position %></div><% } %>
+<% if (item.publications && item.publications.length > 0) { %>
+<div class="student-pub-tags">
+<% for (const pub of item.publications) { %><% if (pub.path) { %><a href="<%= pub.path %>" class="student-pub-tag"><%- pub.venue %></a><% } else { %><span class="student-pub-tag"><%- pub.venue %></span><% } %><% } %>
+</div>
+<% } %>
+</div>
+<% } %>
+

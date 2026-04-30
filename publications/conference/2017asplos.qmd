@@ -1,0 +1,18 @@
+---
+title: "Locality Transformations for Nested Recursive Iteration Spaces"
+date: 2017-04-04
+year: 2017
+pdf: "https://dl.acm.org/doi/pdf/10.1145/3093337.3037720"
+venue: "ASPLOS 2017"
+code: "https://github.com/kirshanthans/twisted-interchanger"
+slides: "files/slides/asplos2017.pptx"
+preprint: ""
+video: ""
+author:
+  - name: Kirshanthan Sundararajah
+  - name: Laith Sakka
+  - name: Milind Kulkarni
+categories:
+  - Conference
+description: ""
+---

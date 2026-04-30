@@ -1,0 +1,48 @@
+---
+title: Publications
+listing:
+  - id: conference-pubs
+    contents: publications/conference/*.qmd
+    sort: "date desc"
+    type: custom
+    template: _pub-listing.ejs
+    fields: [title, author, date, venue]
+  - id: journal-pubs
+    contents: publications/journal/*.qmd
+    sort: "date desc"
+    type: custom
+    template: _pub-listing.ejs
+    fields: [title, author, date, venue]
+  - id: workshop-pubs
+    contents: publications/workshop/*.qmd
+    sort: "date desc"
+    type: custom
+    template: _pub-listing.ejs
+    fields: [title, author, date, venue]
+  - id: manuscript-pubs
+    contents: publications/manuscript/*.qmd
+    sort: "date desc"
+    type: custom
+    template: _pub-listing.ejs
+    fields: [title, author, date, venue]
+---
+
+## Conference Papers
+
+:::{#conference-pubs}
+:::
+
+## Journal Articles
+
+:::{#journal-pubs}
+:::
+
+## Workshop Papers
+
+:::{#workshop-pubs}
+:::
+
+## Manuscripts
+
+:::{#manuscript-pubs}
+:::

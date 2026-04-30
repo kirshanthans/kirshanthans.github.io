@@ -1,0 +1,17 @@
+---
+title: "Composable, Sound Transformations of Nested Recursion and Loops"
+date: 2019-06-08
+year: 2019
+pdf: "https://dl.acm.org/doi/pdf/10.1145/3314221.3314592"
+venue: "PLDI 2019"
+code: "https://github.com/kirshanthans/polyrec"
+slides: "files/slides/pldi2019a.pptx"
+preprint: "https://docs.lib.purdue.edu/ecetr/756/"
+video: "https://www.youtube.com/watch?v=gueEan6ssYY&ab_channel=ACMSIGPLAN"
+author:
+  - name: Kirshanthan Sundararajah
+  - name: Milind Kulkarni
+categories:
+  - Conference
+description: ""
+---

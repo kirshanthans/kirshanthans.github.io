@@ -1,0 +1,21 @@
+---
+title: "Towards Removing Undef Values From LLVM IR"
+date: 2026-06-15
+year: 2026
+pdf: ""
+venue: "PLDI 2026"
+code: ""
+slides: ""
+preprint: ""
+video: ""
+author:
+  - name: Pedro Lobo 
+  - name: John McIver 
+  - name: George Mitenkov
+  - name: Juneyoung Lee
+  - name: Kirshanthan Sundararajah
+  - name: Nuno P. Lopes
+categories:
+  - Conference
+description: ""
+---

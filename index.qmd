@@ -1,0 +1,42 @@
+---
+title: "Kirshanthan (\"Krish\") Sundararajah"
+about:
+    template: trestles
+    image: images/avatar.jpg
+    image-shape: rectangle
+    image-width: 200px
+    links:
+      - icon: envelope-fill
+        text: "Email"
+        url: "mailto:kirshanthans@vt.edu"
+      - icon: mortarboard-fill
+        text: "Scholar"
+        url: "https://scholar.google.com/citations?hl=en&user=knUrjrMAAAAJ&view_op=list_works&sortby=pubdate"
+      - icon: github
+        text: "GitHub"
+        url: "https://github.com/kirshanthans"
+      - icon: twitter
+        text: "Twitter"
+        url: "https://twitter.com/Kirshanthan"
+      - icon: linkedin
+        text: "LinkedIn"
+        url: "https://www.linkedin.com/in/kirshanthan"
+      - text: "**CV**"
+        file: files/cv/cv.pdf
+---
+
+* **Position**: Assistant Professor
+* **Email**: [kirshanthans@vt.edu](mailto:kirshanthans@vt.edu)
+* **Affiliation**: [Virginia Tech](https://vt.edu) | [Computer Science](https://cs.vt.edu)
+* **Office**: GP 4103
+
+My research interests span the areas of compilers, programming langauges and high-performance computing.
+I am particularly interested in solving performance and correctness challenges arise from the irregularity in computations.
+
+My work spans following threads: control-flow regularization to improve performance and program analysis, building compiler infrastructure for sparse tensor computations, and developing principled approaches for transforming and optimizing recursive programs.
+See my [Research](research.qmd) page for more.
+
+## Brief Bio
+I received my PhD from [Purdue University](https://purdue.edu) where I was fortunate enough to advised by [Milind Kulkarni](https://engineering.purdue.edu/~milind).
+I was part of [PurPL](https://purduepl.github.io) at Purdue University.
+I earned my Bachelor's in Electronic and Telecommunication Engineering from [University of Moratuwa](https://uom.lk).

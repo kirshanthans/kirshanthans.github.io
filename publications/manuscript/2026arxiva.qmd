@@ -1,0 +1,22 @@
+---
+title: "Staging Blocked Evaluation over Structured Sparse Matrices"
+date: 2026-02-16"
+year: 2026
+pdf: ""
+venue: "Arxiv 2026"
+code: ""
+slides: ""
+preprint: "https://arxiv.org/pdf/2407.00829"
+video: ""
+author:
+  - name: Pratyush Das
+  - name: Amirhossein Basareh
+  - name: Adhitha Dias
+  - name: Artem Pelenitsyn
+  - name: Kirshanthan Sundararajah
+  - name: Milind Kulkarni
+  - name: Ben Delaware
+categories:
+  - Manuscript
+description: ""
+---

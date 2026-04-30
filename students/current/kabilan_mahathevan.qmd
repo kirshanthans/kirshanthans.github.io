@@ -1,0 +1,10 @@
+---
+name: "Kabilan Mahathevan"
+date: 2025-08-01
+period: "PhD: Fall 2025 – Present"
+topic: "Testing and Optimizing Sparse Tensor Compilers"
+website: "https://kabilan.info/"
+publications:
+  - venue: "FUZZING 2026"
+    path: "publications/workshop/2026fuzzing.html"
+---

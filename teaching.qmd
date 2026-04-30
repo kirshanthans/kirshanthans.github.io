@@ -1,0 +1,13 @@
+---
+title: Courses
+---
+
+| Course | Title | Term |
+|:--|:--|--:|
+| CS 4114 | Formal Languages and Automata Theory | [Spring 2026](https://canvas.vt.edu/courses/223948) |
+| CS 5304 | Translator Design and Construction | [Fall 2025](https://canvas.vt.edu/courses/215664) |
+| CS 4304 | Compiler Design | [Fall 2025](https://canvas.vt.edu/courses/215511) |
+| CS 5314 | Programming Languages | [Fall 2024](https://canvas.vt.edu/courses/196006) |
+| CS 6304 | Advanced Topics Language and Translation | [Spring 2024](https://kirshanthans.github.io/cs6304) |
+| CS 5304 | Translator Design and Construction | [Fall 2023](https://canvas.vt.edu/courses/180726) |
+| CS 4304 | Compiler Design | [Fall 2023](https://canvas.vt.edu/courses/180725) |

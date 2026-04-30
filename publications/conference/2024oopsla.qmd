@@ -1,0 +1,20 @@
+---
+title: "SparseAuto: An Auto-scheduler for Sparse Tensor Computations using Recursive Loop Nest Restructuring"
+date: 2024-10-08
+year: 2024
+pdf: "https://dl.acm.org/doi/pdf/10.1145/3689730"
+venue: "OOPSLA 2024"
+code: "https://zenodo.org/records/12764370"
+slides: "files/slides/oopsla2024.key"
+preprint: "https://arxiv.org/abs/2311.09549"
+video: ""
+author:
+  - name: Adhitha Dias
+  - name: Logan Anderson
+  - name: Kirshanthan Sundararajah
+  - name: Artem Pelenitsyn
+  - name: Milind Kulkarni
+categories:
+  - Conference
+description: ""
+---

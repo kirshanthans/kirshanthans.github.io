@@ -1,0 +1,18 @@
+---
+title: "DARM: Control-Flow Melding for SIMT Thread Divergence Reduction"
+date: 2022-01-01
+year: 2022
+pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9741285"
+venue: "CGO 2022"
+code: "https://github.com/charitha22/cgo22ae-darm-code"
+slides: "files/slides/cgo2022.pdf"
+preprint: "https://arxiv.org/pdf/2107.05681.pdf"
+video: ""
+author:
+  - name: Charitha Saumya
+  - name: Kirshanthan Sundararajah
+  - name: Milind Kulkarni
+categories:
+  - Conference
+description: ""
+---

@@ -1,0 +1,21 @@
+---
+title: "HyBF: A Hybrid Branch Fusion Strategy for Code Size Reduction"
+date: 2023-02-20
+year: 2023
+pdf: "https://dl.acm.org/doi/pdf/10.1145/3578360.3580267"
+venue: "CC 2023"
+code: "https://doi.org/10.6084/m9.figshare.21976358.v1"
+slides: "files/slides/cc2023.pdf"
+preprint: ""
+video: ""
+author:
+  - name: Rodrigo Rocha
+  - name: Charitha Saumya
+  - name: Kirshanthan Sundararajah
+  - name: Pavlos Petoumenos
+  - name: Milind Kulkarni
+  - name: Michael O'Boyle
+categories:
+  - Conference
+description: ""
+---

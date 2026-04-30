@@ -1,0 +1,36 @@
+project:
+  type: website
+  resources:
+    - files/cv/cv.pdf
+
+website:
+  title: "Home"
+  favicon: images/icon.png
+  navbar:
+    background: "#630031"
+    foreground: "#CF4420"
+    left:
+      - href: publications.qmd
+        text: Publications
+      - href: research.qmd
+        text: Research
+      - href: students.qmd
+        text: Students
+      - href: teaching.qmd
+        text: Courses
+      - href: service.qmd
+        text: Service
+      - href: awards.qmd
+        text: Awards
+
+format:
+  html:
+    grid:
+      body-width: 1000px
+    theme: cyborg 
+    css: styles.css
+    toc: true
+    linkcolor: "#CF4420"
+
+
+

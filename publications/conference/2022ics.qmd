@@ -1,0 +1,19 @@
+---
+title: "SparseLNR: Accelerating Sparse Tensor Computations Using Loop Nest Restructuring"
+date: 2022-06-28
+year: 2022
+pdf: "https://dl.acm.org/doi/pdf/10.1145/3524059.3532386"
+venue: "ICS 2022"
+code: "https://github.com/adhithadias/SparseLNR"
+slides: "files/slides/ics2022.pptx"
+preprint: "https://arxiv.org/pdf/2205.11622.pdf"
+video: "https://www.youtube.com/watch?v=TGGrjp3c2-U"
+author:
+  - name: Adhitha Dias
+  - name: Kirshanthan Sundararajah
+  - name: Charitha Saumya
+  - name: Milind Kulkarni
+categories:
+  - Conference
+description: ""
+---

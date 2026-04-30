@@ -1,0 +1,21 @@
+---
+title: "Layered Depth Image Based HEVC Multi-view Codec"
+date: 2014-12-01
+year: 2014
+pdf: "https://link.springer.com/chapter/10.1007/978-3-319-14364-4_36"
+venue: "ISVC 2014"
+code: ""
+slides: ""
+preprint: ""
+video: "https://youtube.com/playlist?list=PL1_9GsFlZ69Z8XN9sG5jS99yjpfIR5mN-"
+author:
+  - name: Kirshanthan Sundararajah
+  - name: Lajanugen Logeswaran
+  - name: Nisal Panagoda
+  - name: Lakshitha Prabath Wijesinghe
+  - name: Varuna De Silva
+  - name: Ajith Pasqual
+categories:
+  - Conference
+description: ""
+---

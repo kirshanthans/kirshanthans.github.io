@@ -1,0 +1,10 @@
+---
+name: "Yining (Ian) Zhang"
+date: 2025-08-01
+period: "PhD: Fall 2025 – Present"
+topic: "Automatically Specializing Sparse Tensor Compilers"
+website: "https://www.linkedin.com/in/ining/"
+publications:
+  - venue: "FUZZING 2026"
+    path: "publications/workshop/2026fuzzing.html"
+---

@@ -1,0 +1,20 @@
+---
+title: "RT-BarnesHut: Accelerating Barnes-Hut Using Ray-Tracing Hardware"
+date: 2025-02-28
+year: 2025
+pdf: "https://dl.acm.org/doi/pdf/10.1145/3710848.3710885"
+venue: "PPoPP 2025"
+code: ""
+slides: ""
+preprint: ""
+video: ""
+author:
+  - name: Vani Nagarajan
+  - name: Rohan Gangaraju
+  - name: Kirshanthan Sundararajah
+  - name: Artem Pelenitsyn
+  - name: Milind Kulkarni
+categories:
+  - Conference
+description: ""
+---
