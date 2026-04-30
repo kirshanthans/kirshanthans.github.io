@@ -1,0 +1,14 @@
+{
+  "listingMap": {
+    "students.qmd": [
+      "students/current/*.qmd",
+      "students/former/*.qmd"
+    ],
+    "publications.qmd": [
+      "publications/conference/*.qmd",
+      "publications/journal/*.qmd",
+      "publications/workshop/*.qmd",
+      "publications/manuscript/*.qmd"
+    ]
+  }
+}

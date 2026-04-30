@@ -1,4 +1,5 @@
 _site
 .claude
-.quarto
 CLAUDE.md
+
+/.quarto/

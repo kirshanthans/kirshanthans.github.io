@@ -1,0 +1,185 @@
+{
+  "index.qmd": {
+    "index.html": "1c159adc"
+  },
+  "about.qmd": {
+    "about.html": "03c34c26"
+  },
+  "research.qmd": {
+    "research.html": "c402c288"
+  },
+  "publications.qmd": {
+    "publications.html": "14cdd8fc"
+  },
+  "teaching.qmd": {
+    "teaching.html": "dea150d6"
+  },
+  "service.qmd": {
+    "service.html": "cf844bf1"
+  },
+  "awards.qmd": {
+    "awards.html": "a6dfa166"
+  },
+  "publications/2022ics.qmd": {
+    "2022ics.html": "15448d4c"
+  },
+  "publications/2017asplos.qmd": {
+    "2017asplos.html": "816cec87"
+  },
+  "publications/2024oopsla.qmd": {
+    "2024oopsla.html": "61d62c09"
+  },
+  "publications/2022oopsla.qmd": {
+    "2022oopsla.html": "3ae75d31"
+  },
+  "publications/2017oopsla.qmd": {
+    "2017oopsla.html": "a4baa73a"
+  },
+  "publications/2016mercon.qmd": {
+    "2016mercon.html": "107505a7"
+  },
+  "publications/2024arxiva.qmd": {
+    "2024arxiva.html": "8dc2dbbf"
+  },
+  "publications/2023arxiv.qmd": {
+    "2023arxiv.html": "efc3bfaf"
+  },
+  "publications/2022cgo.qmd": {
+    "2022cgo.html": "26c77478"
+  },
+  "publications/2019pldia.qmd": {
+    "2019pldia.html": "60fbd71d"
+  },
+  "publications/2019pldib.qmd": {
+    "2019pldib.html": "8fb3d73c"
+  },
+  "publications/2023cc.qmd": {
+    "2023cc.html": "8997d61b"
+  },
+  "publications/2024taco.qmd": {
+    "2024taco.html": "49017c38"
+  },
+  "publications/2021gpce.qmd": {
+    "2021gpce.html": "5735c827"
+  },
+  "publications/2017ispass.qmd": {
+    "2017ispass.html": "2143b3a2"
+  },
+  "publications/2014isvc.qmd": {
+    "2014isvc.html": "d2ce2fc7"
+  },
+  "publications/2026oopsla.qmd": {
+    "2026oopsla.html": "0ba035d1"
+  },
+  "CLAUDE.md": {
+    "CLAUDE.html": "35300240"
+  },
+  "publications/2025vmil.qmd": {
+    "2025vmil.html": "1fe6bb2c"
+  },
+  "publications/2025ppopp.qmd": {
+    "2025ppopp.html": "0f726a19"
+  },
+  "publications/2026fuzzing.qmd": {
+    "2026fuzzing.html": "5462eeb7"
+  },
+  "publications/2026arxiva.qmd": {
+    "2026arxiva.html": "bbdd5f38"
+  },
+  "publications/2026pldi.qmd": {
+    "2026pldi.html": "85daeb5e"
+  },
+  "publications/2026ecoop.qmd": {
+    "2026ecoop.html": "b2f4a4a7"
+  },
+  "students.qmd": {
+    "students.html": "17292edd"
+  },
+  "students/current/john_mciver.qmd": {
+    "john_mciver.html": "fe62c424"
+  },
+  "students/current/muhammad_hassan.qmd": {
+    "muhammad_hassan.html": "ddebb901"
+  },
+  "students/current/kabilan_mahathevan.qmd": {
+    "kabilan_mahathevan.html": "d2e62c5f"
+  },
+  "students/current/poorna_gunathilaka.qmd": {
+    "poorna_gunathilaka.html": "9077b2b0"
+  },
+  "students/current/yining_zhang.qmd": {
+    "yining_zhang.html": "a2fbe8c8"
+  },
+  "students/current/yuze_li.qmd": {
+    "yuze_li.html": "1ed19e12"
+  },
+  "students/former/srinivasan_ramachandra_sharma.qmd": {
+    "srinivasan_ramachandra_sharma.html": "02bc513f"
+  },
+  "publications/manuscript/2026arxiva.qmd": {
+    "2026arxiva.html": "7638de68"
+  },
+  "publications/workshop/2026fuzzing.qmd": {
+    "2026fuzzing.html": "f5cc8a0b"
+  },
+  "publications/journal/2024taco.qmd": {
+    "2024taco.html": "8bfc74f5"
+  },
+  "publications/workshop/2025vmil.qmd": {
+    "2025vmil.html": "bb2209b8"
+  },
+  "publications/conference/2026pldi.qmd": {
+    "2026pldi.html": "8206bb28"
+  },
+  "publications/conference/2022ics.qmd": {
+    "2022ics.html": "86af8a03"
+  },
+  "publications/conference/2017asplos.qmd": {
+    "2017asplos.html": "b8ca1a33"
+  },
+  "publications/conference/2024oopsla.qmd": {
+    "2024oopsla.html": "a6793d9c"
+  },
+  "publications/conference/2022oopsla.qmd": {
+    "2022oopsla.html": "6911c476"
+  },
+  "publications/conference/2017oopsla.qmd": {
+    "2017oopsla.html": "4b0267d5"
+  },
+  "publications/conference/2016mercon.qmd": {
+    "2016mercon.html": "17c6086a"
+  },
+  "publications/conference/2022cgo.qmd": {
+    "2022cgo.html": "6db26377"
+  },
+  "publications/conference/2019pldia.qmd": {
+    "2019pldia.html": "536314eb"
+  },
+  "publications/conference/2019pldib.qmd": {
+    "2019pldib.html": "7d7404ea"
+  },
+  "publications/conference/2026oopsla.qmd": {
+    "2026oopsla.html": "4b4d7d3a"
+  },
+  "publications/conference/2025ppopp.qmd": {
+    "2025ppopp.html": "79ac763e"
+  },
+  "publications/conference/2023cc.qmd": {
+    "2023cc.html": "6f63d8d2"
+  },
+  "publications/conference/2021gpce.qmd": {
+    "2021gpce.html": "49fb35fd"
+  },
+  "publications/conference/2026ecoop.qmd": {
+    "2026ecoop.html": "0d69e18d"
+  },
+  "publications/conference/2017ispass.qmd": {
+    "2017ispass.html": "5e4dbfaa"
+  },
+  "publications/conference/2014isvc.qmd": {
+    "2014isvc.html": "e8228315"
+  },
+  "students/former/yuze_li.qmd": {
+    "yuze_li.html": "369eafaf"
+  }
+}
