@@ -1,5 +1,21 @@
 /* css styles */
 
+/* Navbar color overrides — _quarto.yml navbar.background/foreground don't apply with pre-compiled themes */
+.navbar {
+  background-color: #630031 !important;
+}
+
+.navbar .nav-link,
+.navbar .navbar-title,
+.navbar .navbar-brand {
+  color: #CF4420 !important;
+}
+
+.navbar .nav-link:hover,
+.navbar .nav-link:focus {
+  color: #e8602e !important;
+}
+
 /* Individual publication page header */
 .pub-page-header {
   margin-bottom: 2rem;
