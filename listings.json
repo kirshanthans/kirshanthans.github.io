@@ -1,0 +1,40 @@
+[
+  {
+    "listing": "/students.html",
+    "items": [
+      "/students/current/muhammad_hassan.html",
+      "/students/current/john_mciver.html",
+      "/students/current/kabilan_mahathevan.html",
+      "/students/current/poorna_gunathilaka.html",
+      "/students/current/yining_zhang.html",
+      "/students/former/yuze_li.html",
+      "/students/former/srinivasan_ramachandra_sharma.html"
+    ]
+  },
+  {
+    "listing": "/publications.html",
+    "items": [
+      "/publications/conference/2026ecoop.html",
+      "/publications/conference/2026pldi.html",
+      "/publications/conference/2026oopsla.html",
+      "/publications/conference/2025ppopp.html",
+      "/publications/conference/2024oopsla.html",
+      "/publications/conference/2023cc.html",
+      "/publications/conference/2022oopsla.html",
+      "/publications/conference/2022ics.html",
+      "/publications/conference/2022cgo.html",
+      "/publications/conference/2021gpce.html",
+      "/publications/conference/2019pldia.html",
+      "/publications/conference/2019pldib.html",
+      "/publications/conference/2017oopsla.html",
+      "/publications/conference/2017ispass.html",
+      "/publications/conference/2017asplos.html",
+      "/publications/conference/2016mercon.html",
+      "/publications/conference/2014isvc.html",
+      "/publications/journal/2024taco.html",
+      "/publications/workshop/2026fuzzing.html",
+      "/publications/workshop/2025vmil.html",
+      "/publications/manuscript/2026arxiva.html"
+    ]
+  }
+]
