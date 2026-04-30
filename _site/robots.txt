@@ -1,1 +1,0 @@
-Sitemap: git@github.com:kirshanthans/kirshanthans.github.io/sitemap.xml
