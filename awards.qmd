@@ -4,6 +4,7 @@ title: Awards
 
 | Award | Year |
 |:--|--:|
+| Distinguished Paper Award at PLDI | 2026 |
 | Best Paper Award at ICS | 2022 |
 | Bilsland Dissertation Fellowship | 2021 |
 | Silver Medal in ACM Student Research Competition at SPLASH | 2018 |
