@@ -4,6 +4,7 @@ date: 2016-04-01
 year: 2016
 pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7480117"
 venue: "MERCon 2016"
+award: ""
 code: ""
 slides: ""
 preprint: ""

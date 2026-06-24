@@ -4,6 +4,7 @@ date: 2022-01-01
 year: 2022
 pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9741285"
 venue: "CGO 2022"
+award: ""
 code: "https://github.com/charitha22/cgo22ae-darm-code"
 slides: "files/slides/cgo2022.pdf"
 preprint: "https://arxiv.org/pdf/2107.05681.pdf"

@@ -4,6 +4,7 @@ date: 2017-10-12
 year: 2017
 pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7975294"
 venue: "ISPASS 2017"
+award: ""
 code: "https://bitbucket.org/plcl/treelogy"
 slides: "files/slides/ispass2017.pdf"
 preprint: ""

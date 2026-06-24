@@ -9,6 +9,7 @@
     }
   }
   const venue = item.venue || '';
+  const award = item.award || '';
   const pdf = item.pdf || '';
   const code = item.code || '';
   const slides = item.slides || '';
@@ -18,6 +19,7 @@
   <div class="pub-title"><a href="<%= item.path %>"><%- item.title %></a></div>
   <div class="pub-authors"><%- authorStr %></div>
   <% if (venue) { %><div class="pub-venue"><%- venue %></div><% } %>
+  <% if (award) { %><div class="pub-award">🏆 <%- award %></div><% } %>
   <% if (preprint) { %><a href="<%= preprint %>" class="pub-link-btn" target="_blank">Preprint</a><% } %>
   <% if (pdf) { %><a href="<%= pdf %>" class="pub-link-btn" target="_blank">PDF</a><% } %>
   <% if (code) { %><a href="<%= code %>" class="pub-link-btn" target="_blank">Code</a><% } %>

@@ -4,6 +4,7 @@ date: 2026-06-15
 year: 2026
 pdf: "https://dl.acm.org/doi/pdf/10.1145/3808250"
 venue: "PLDI 2026"
+award: "Distinguished Paper"
 code: ""
 slides: ""
 preprint: ""

@@ -4,6 +4,7 @@ date: 2014-12-01
 year: 2014
 pdf: "https://link.springer.com/chapter/10.1007/978-3-319-14364-4_36"
 venue: "ISVC 2014"
+award: ""
 code: ""
 slides: ""
 preprint: ""

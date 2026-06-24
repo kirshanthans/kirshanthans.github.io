@@ -6,25 +6,25 @@ listing:
     sort: "date desc"
     type: custom
     template: _pub-listing.ejs
-    fields: [title, author, date, venue]
+    fields: [title, author, date, venue, award]
   - id: journal-pubs
     contents: publications/journal/*.qmd
     sort: "date desc"
     type: custom
     template: _pub-listing.ejs
-    fields: [title, author, date, venue]
+    fields: [title, author, date, venue, award]
   - id: workshop-pubs
     contents: publications/workshop/*.qmd
     sort: "date desc"
     type: custom
     template: _pub-listing.ejs
-    fields: [title, author, date, venue]
+    fields: [title, author, date, venue, award]
   - id: manuscript-pubs
     contents: publications/manuscript/*.qmd
     sort: "date desc"
     type: custom
     template: _pub-listing.ejs
-    fields: [title, author, date, venue]
+    fields: [title, author, date, venue, award]
 ---
 
 ## Conference Papers
