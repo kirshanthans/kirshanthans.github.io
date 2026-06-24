@@ -3,7 +3,7 @@ name: "John McIver"
 date: 2025-08-01
 period: "PhD: Fall 2025 – Present"
 topic: "Generalizing Fusion Transformations in Compilers"
-website: "https://www.linkedin.com/in/john-mciver-019b821/"
+website: "https://jmciver.github.io/"
 publications:
   - venue: "PLDI 2026"
     path: "publications/conference/2026pldi.html"
