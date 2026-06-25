@@ -2,7 +2,7 @@
 title: "Eliminate Branches by Melding IR Instructions"
 date: 2026-06-29
 year: 2026
-pdf: ""
+pdf: "https://drops.dagstuhl.de/storage/00lipics/lipics-vol372-ecoop2026/LIPIcs.ECOOP.2026.18/LIPIcs.ECOOP.2026.18.pdf"
 venue: "ECOOP 2026"
 award: ""
 code: "https://doi.org/10.5281/zenodo.19598511"
