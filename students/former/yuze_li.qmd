@@ -4,7 +4,7 @@ date: 2023-08-01
 period: "PhD: Fall 2023 – Spring 2026"
 topic: "Cross-stack Improvement on Memory Efﬁciency"
 website: "https://people.cs.vt.edu/lyuze/"
-position: Moore Threads
+position: Huawei
 publications:
   - venue: "VMIL 2025"
     path: "publications/workshop/2025vmil.html"
