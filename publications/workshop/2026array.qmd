@@ -1,0 +1,20 @@
+---
+title: "Portable Anomaly Detection for Distributed PGAS Programs Based on Array Mapping Abstractions"
+date: 2026-06-16
+year: 2026
+pdf: "https://dl.acm.org/doi/pdf/10.1145/3815001.3815002"
+venue: "ARRAY 2026"
+award: ""
+code: ""
+slides: ""
+preprint: ""
+video: ""
+author:
+  - name: Raneem Abuyosef
+  - name: Thomas Huddleston
+  - name: Kirshanthan Sundararajah
+  - name: Martin Kong
+categories:
+  - Workshop
+description: ""
+---

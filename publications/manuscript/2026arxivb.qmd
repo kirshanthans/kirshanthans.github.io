@@ -1,0 +1,19 @@
+---
+title: "Assessing Large Language Models for Stabilizing Numerical Expressions in Scientific Software"
+date: 2026-04-08"
+year: 2026
+pdf: ""
+venue: "Arxiv 2026"
+award: ""
+code: ""
+slides: ""
+preprint: "https://arxiv.org/pdf/2604.04854"
+video: ""
+author:
+  - name: Tien Nguyen
+  - name: Kirshanthan Sundararajah
+  - name: Muhammad Ali Gulzar
+categories:
+  - Manuscript
+description: ""
+---

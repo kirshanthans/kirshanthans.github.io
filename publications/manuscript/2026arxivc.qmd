@@ -1,0 +1,27 @@
+---
+title: "nomp: A Framework for Building Domain Specific Compilers"
+date: 2026-06-10"
+year: 2026
+pdf: ""
+venue: "Arxiv 2026"
+award: ""
+code: ""
+slides: ""
+preprint: "https://arxiv.org/pdf/2606.12650"
+video: ""
+author:
+  - name: Thilina Ratnayaka
+  - name: Kaushik Kulkarni
+  - name: Nipuna Fernando
+  - name: Pubudu Hewavitharana
+  - name: Hirumal Priyashan
+  - name: Poorna Gunathilaka
+  - name: Nagitha Abeywickrema
+  - name: Ravindu Hirimuthugoda
+  - name: Tarun Prabhu
+  - name: Kirshanthan Sundararajah
+  - name: Sanath Jayasena
+categories:
+  - Manuscript
+description: ""
+---
