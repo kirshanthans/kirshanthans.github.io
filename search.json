@@ -84,6 +84,20 @@
     "text": "Orchard: Heterogeneous Parallelism and Fine-grained Fusion for Complex Tree Traversals\n    Vidush Singhal, Laith Sakka, Kirshanthan Sundararajah, Ryan R Newton, Milind Kulkarni\n      TACO 2024\n    \n  PDF\n  Code"
   },
   {
+    "objectID": "publications/manuscript/2026arxivb.html",
+    "href": "publications/manuscript/2026arxivb.html",
+    "title": "Home",
+    "section": "",
+    "text": "Assessing Large Language Models for Stabilizing Numerical Expressions in Scientific Software\n    Tien Nguyen, Kirshanthan Sundararajah, Muhammad Ali Gulzar\n      Arxiv 2026\n    Preprint"
+  },
+  {
+    "objectID": "publications/manuscript/2026arxivc.html",
+    "href": "publications/manuscript/2026arxivc.html",
+    "title": "Home",
+    "section": "",
+    "text": "nomp: A Framework for Building Domain Specific Compilers\n    Thilina Ratnayaka, Kaushik Kulkarni, Nipuna Fernando, Pubudu Hewavitharana, Hirumal Priyashan, Poorna Gunathilaka, Nagitha Abeywickrema, Ravindu Hirimuthugoda, Tarun Prabhu, Kirshanthan Sundararajah, Sanath Jayasena\n      Arxiv 2026\n    Preprint"
+  },
+  {
     "objectID": "publications/manuscript/2026arxiva.html",
     "href": "publications/manuscript/2026arxiva.html",
     "title": "Home",
@@ -291,6 +305,6 @@
     "href": "publications.html#manuscripts",
     "title": "Publications",
     "section": "Manuscripts",
-    "text": "Manuscripts\n\n\n\nStaging Blocked Evaluation over Structured Sparse Matrices\n\n\nPratyush Das, Amirhossein Basareh, Adhitha Dias, Artem Pelenitsyn, Kirshanthan Sundararajah, Milind Kulkarni, Ben Delaware\n\n\nArxiv 2026\n\nPreprint\n\n\nNo matching items"
+    "text": "Manuscripts\n\n\n\nnomp: A Framework for Building Domain Specific Compilers\n\n\nThilina Ratnayaka, Kaushik Kulkarni, Nipuna Fernando, Pubudu Hewavitharana, Hirumal Priyashan, Poorna Gunathilaka, Nagitha Abeywickrema, Ravindu Hirimuthugoda, Tarun Prabhu, Kirshanthan Sundararajah, Sanath Jayasena\n\n\nArxiv 2026\n\nPreprint\n\n\n\nAssessing Large Language Models for Stabilizing Numerical Expressions in Scientific Software\n\n\nTien Nguyen, Kirshanthan Sundararajah, Muhammad Ali Gulzar\n\n\nArxiv 2026\n\nPreprint\n\n\n\nStaging Blocked Evaluation over Structured Sparse Matrices\n\n\nPratyush Das, Amirhossein Basareh, Adhitha Dias, Artem Pelenitsyn, Kirshanthan Sundararajah, Milind Kulkarni, Ben Delaware\n\n\nArxiv 2026\n\nPreprint\n\n\nNo matching items"
   }
 ]

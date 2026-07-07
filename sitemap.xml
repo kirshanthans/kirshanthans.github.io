@@ -2,146 +2,154 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/teaching.html</loc>
-    <lastmod>2026-07-07T17:35:47.599Z</lastmod>
+    <lastmod>2026-07-07T17:52:12.774Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/research.html</loc>
-    <lastmod>2026-07-07T17:35:47.908Z</lastmod>
+    <lastmod>2026-07-07T17:52:13.080Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/service.html</loc>
-    <lastmod>2026-07-07T17:35:48.191Z</lastmod>
+    <lastmod>2026-07-07T17:52:13.371Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/publications/journal/2024taco.html</loc>
-    <lastmod>2026-07-07T17:35:48.506Z</lastmod>
+    <lastmod>2026-07-07T17:52:13.685Z</lastmod>
+  </url>
+  <url>
+    <loc>git@github.com:kirshanthans/kirshanthans.github.io/publications/manuscript/2026arxivb.html</loc>
+    <lastmod>2026-07-07T17:52:13.959Z</lastmod>
+  </url>
+  <url>
+    <loc>git@github.com:kirshanthans/kirshanthans.github.io/publications/manuscript/2026arxivc.html</loc>
+    <lastmod>2026-07-07T17:52:14.229Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/publications/manuscript/2026arxiva.html</loc>
-    <lastmod>2026-07-07T17:35:48.779Z</lastmod>
+    <lastmod>2026-07-07T17:52:14.493Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/publications/workshop/2025vmil.html</loc>
-    <lastmod>2026-07-07T17:35:49.051Z</lastmod>
+    <lastmod>2026-07-07T17:52:14.755Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/publications/workshop/2026fuzzing.html</loc>
-    <lastmod>2026-07-07T17:35:49.318Z</lastmod>
+    <lastmod>2026-07-07T17:52:15.025Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/publications/workshop/2026array.html</loc>
-    <lastmod>2026-07-07T17:35:49.584Z</lastmod>
+    <lastmod>2026-07-07T17:52:15.296Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/publications/conference/2026pldi.html</loc>
-    <lastmod>2026-07-07T17:35:49.854Z</lastmod>
+    <lastmod>2026-07-07T17:52:15.560Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/publications/conference/2022ics.html</loc>
-    <lastmod>2026-07-07T17:35:50.124Z</lastmod>
+    <lastmod>2026-07-07T17:52:15.823Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/publications/conference/2017asplos.html</loc>
-    <lastmod>2026-07-07T17:35:50.391Z</lastmod>
+    <lastmod>2026-07-07T17:52:16.090Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/publications/conference/2024oopsla.html</loc>
-    <lastmod>2026-07-07T17:35:50.658Z</lastmod>
+    <lastmod>2026-07-07T17:52:16.353Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/publications/conference/2022oopsla.html</loc>
-    <lastmod>2026-07-07T17:35:50.927Z</lastmod>
+    <lastmod>2026-07-07T17:52:16.622Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/publications/conference/2017oopsla.html</loc>
-    <lastmod>2026-07-07T17:35:51.188Z</lastmod>
+    <lastmod>2026-07-07T17:52:16.888Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/publications/conference/2016mercon.html</loc>
-    <lastmod>2026-07-07T17:35:51.453Z</lastmod>
+    <lastmod>2026-07-07T17:52:17.153Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/publications/conference/2022cgo.html</loc>
-    <lastmod>2026-07-07T17:35:51.718Z</lastmod>
+    <lastmod>2026-07-07T17:52:17.421Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/publications/conference/2019pldia.html</loc>
-    <lastmod>2026-07-07T17:35:51.993Z</lastmod>
+    <lastmod>2026-07-07T17:52:17.702Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/publications/conference/2019pldib.html</loc>
-    <lastmod>2026-07-07T17:35:52.261Z</lastmod>
+    <lastmod>2026-07-07T17:52:17.962Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/publications/conference/2026oopsla.html</loc>
-    <lastmod>2026-07-07T17:35:52.525Z</lastmod>
+    <lastmod>2026-07-07T17:52:18.226Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/publications/conference/2025ppopp.html</loc>
-    <lastmod>2026-07-07T17:35:52.789Z</lastmod>
+    <lastmod>2026-07-07T17:52:18.490Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/publications/conference/2023cc.html</loc>
-    <lastmod>2026-07-07T17:35:53.059Z</lastmod>
+    <lastmod>2026-07-07T17:52:18.752Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/publications/conference/2021gpce.html</loc>
-    <lastmod>2026-07-07T17:35:53.326Z</lastmod>
+    <lastmod>2026-07-07T17:52:19.026Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/publications/conference/2026ecoop.html</loc>
-    <lastmod>2026-07-07T17:35:53.623Z</lastmod>
+    <lastmod>2026-07-07T17:52:19.297Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/publications/conference/2017ispass.html</loc>
-    <lastmod>2026-07-07T17:35:53.902Z</lastmod>
+    <lastmod>2026-07-07T17:52:19.577Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/publications/conference/2014isvc.html</loc>
-    <lastmod>2026-07-07T17:35:54.184Z</lastmod>
+    <lastmod>2026-07-07T17:52:19.844Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/awards.html</loc>
-    <lastmod>2026-07-07T17:35:54.452Z</lastmod>
+    <lastmod>2026-07-07T17:52:20.110Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/index.html</loc>
-    <lastmod>2026-07-07T17:35:54.732Z</lastmod>
+    <lastmod>2026-07-07T17:52:20.401Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/students.html</loc>
-    <lastmod>2026-07-07T17:35:55.048Z</lastmod>
+    <lastmod>2026-07-07T17:52:20.714Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/publications.html</loc>
-    <lastmod>2026-07-07T17:35:55.444Z</lastmod>
+    <lastmod>2026-07-07T17:52:21.123Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/students/current/muhammad_hassan.html</loc>
-    <lastmod>2026-07-07T17:35:57.081Z</lastmod>
+    <lastmod>2026-07-07T17:52:22.756Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/students/current/kabilan_mahathevan.html</loc>
-    <lastmod>2026-07-07T17:35:57.345Z</lastmod>
+    <lastmod>2026-07-07T17:52:23.024Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/students/current/poorna_gunathilaka.html</loc>
-    <lastmod>2026-07-07T17:35:57.600Z</lastmod>
+    <lastmod>2026-07-07T17:52:23.285Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/students/current/john_mciver.html</loc>
-    <lastmod>2026-07-07T17:35:57.863Z</lastmod>
+    <lastmod>2026-07-07T17:52:23.545Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/students/current/yining_zhang.html</loc>
-    <lastmod>2026-07-07T17:35:58.129Z</lastmod>
+    <lastmod>2026-07-07T17:52:23.852Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/students/former/srinivasan_ramachandra_sharma.html</loc>
-    <lastmod>2026-07-07T17:35:58.381Z</lastmod>
+    <lastmod>2026-07-07T17:52:24.117Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/students/former/yuze_li.html</loc>
-    <lastmod>2026-07-07T17:35:58.636Z</lastmod>
+    <lastmod>2026-07-07T17:52:24.384Z</lastmod>
   </url>
 </urlset>
