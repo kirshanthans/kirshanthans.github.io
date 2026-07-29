@@ -105,6 +105,13 @@
     "text": "Staging Blocked Evaluation over Structured Sparse Matrices\n    Pratyush Das, Amirhossein Basareh, Adhitha Dias, Artem Pelenitsyn, Kirshanthan Sundararajah, Milind Kulkarni, Ben Delaware\n      Arxiv 2026\n    Preprint"
   },
   {
+    "objectID": "publications/workshop/2026nvsc.html",
+    "href": "publications/workshop/2026nvsc.html",
+    "title": "Home",
+    "section": "",
+    "text": "A Preliminary Study on Simultaneous Coscheduling for Discrete GPU vs. Fused GPU\n    Poorna Gunathilaka, Nabayan Chaudhury, Kirshanthan Sundararajah, Wu-chun Feng\n      SPIN-NVSC 2026\n    \n  PDF"
+  },
+  {
     "objectID": "publications/workshop/2025vmil.html",
     "href": "publications/workshop/2025vmil.html",
     "title": "Home",
@@ -270,7 +277,7 @@
     "href": "students.html",
     "title": "Students",
     "section": "",
-    "text": "Muhammad HassanWebsite\n\n\nPhD: Spring 2025 – Present\n\n\nTopic: Bidirectional Control-flow Transformations\n\n\nOOPSLA 2026\n\n\n\n\nJohn McIverWebsite\n\n\nPhD: Fall 2025 – Present\n\n\nTopic: Generalizing Fusion Transformations in Compilers\n\n\nPLDI 2026\n\n\n\n\nKabilan MahathevanWebsite\n\n\nPhD: Fall 2025 – Present\n\n\nTopic: Testing and Optimizing Sparse Tensor Compilers\n\n\nFUZZING 2026\n\n\n\n\nPoorna GunathilakaWebsite\n\n\nPhD: Fall 2025 – Present\n\n\nTopic: Data Layout Transformations for HPC systems\n\n\n\n\nYining (Ian) ZhangWebsite\n\n\nPhD: Fall 2025 – Present\n\n\nTopic: Automatically Specializing Sparse Tensor Compilers\n\n\nFUZZING 2026\n\n\n\nNo matching items"
+    "text": "Muhammad HassanWebsite\n\n\nPhD: Spring 2025 – Present\n\n\nTopic: Bidirectional Control-flow Transformations\n\n\nOOPSLA 2026\n\n\n\n\nJohn McIverWebsite\n\n\nPhD: Fall 2025 – Present\n\n\nTopic: Generalizing Fusion Transformations in Compilers\n\n\nPLDI 2026\n\n\n\n\nKabilan MahathevanWebsite\n\n\nPhD: Fall 2025 – Present\n\n\nTopic: Testing and Optimizing Sparse Tensor Compilers\n\n\nFUZZING 2026\n\n\n\n\nPoorna GunathilakaWebsite\n\n\nPhD: Fall 2025 – Present\n\n\nTopic: Data Layout Transformations for HPC systems\n\n\nSPIN-NVSC 2026\n\n\n\n\nYining (Ian) ZhangWebsite\n\n\nPhD: Fall 2025 – Present\n\n\nTopic: Automatically Specializing Sparse Tensor Compilers\n\n\nFUZZING 2026\n\n\n\nNo matching items"
   },
   {
     "objectID": "students.html#former-students",
@@ -298,7 +305,7 @@
     "href": "publications.html#workshop-papers",
     "title": "Publications",
     "section": "Workshop Papers",
-    "text": "Workshop Papers\n\n\n\nPortable Anomaly Detection for Distributed PGAS Programs Based on Array Mapping Abstractions\n\n\nRaneem Abuyosef, Thomas Huddleston, Kirshanthan Sundararajah, Martin Kong\n\n\nARRAY 2026\n\nPDF\n\n\n\nTenSure: Fuzzing Sparse Tensor Compilers\n\n\nKabilan Mahathevan, Yining Zhang, Muhammad Ali Gulzar, Kirshanthan Sundararajah\n\n\nFUZZING 2026\n\nPreprint PDF Code Slides\n\n\n\nMemory Tiering in Python Virtual Machine\n\n\nYuze Li, Shunyu Yao, Jaiaid Mobin, Tianyu Zhan, M. Mustafa Rafique, Dimitrios Nikolopoulos, Kirshanthan Sundararajah, Ali R. Butt\n\n\nVMIL 2025\n\nPDF Slides\n\n\nNo matching items"
+    "text": "Workshop Papers\n\n\n\nA Preliminary Study on Simultaneous Coscheduling for Discrete GPU vs. Fused GPU\n\n\nPoorna Gunathilaka, Nabayan Chaudhury, Kirshanthan Sundararajah, Wu-chun Feng\n\n\nSPIN-NVSC 2026\n\nPDF\n\n\n\nPortable Anomaly Detection for Distributed PGAS Programs Based on Array Mapping Abstractions\n\n\nRaneem Abuyosef, Thomas Huddleston, Kirshanthan Sundararajah, Martin Kong\n\n\nARRAY 2026\n\nPDF\n\n\n\nTenSure: Fuzzing Sparse Tensor Compilers\n\n\nKabilan Mahathevan, Yining Zhang, Muhammad Ali Gulzar, Kirshanthan Sundararajah\n\n\nFUZZING 2026\n\nPreprint PDF Code Slides\n\n\n\nMemory Tiering in Python Virtual Machine\n\n\nYuze Li, Shunyu Yao, Jaiaid Mobin, Tianyu Zhan, M. Mustafa Rafique, Dimitrios Nikolopoulos, Kirshanthan Sundararajah, Ali R. Butt\n\n\nVMIL 2025\n\nPDF Slides\n\n\nNo matching items"
   },
   {
     "objectID": "publications.html#manuscripts",
