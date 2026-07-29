@@ -1,0 +1,20 @@
+---
+title: "A Preliminary Study on Simultaneous Coscheduling for Discrete GPU vs. Fused GPU"
+date: 2026-09-28
+year: 2026
+pdf: "https://dl.acm.org/doi/pdf/10.1145/3816891.3834899"
+venue: "SPIN-NVSC 2026"
+award: ""
+code: ""
+slides: ""
+preprint: ""
+video: ""
+author:
+  - name: Poorna Gunathilaka
+  - name: Nabayan Chaudhury
+  - name: Kirshanthan Sundararajah
+  - name: Wu-chun Feng
+categories:
+  - Workshop
+description: ""
+---
