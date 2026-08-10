@@ -21,6 +21,8 @@ about:
       - icon: linkedin
         text: "LinkedIn"
         url: "https://www.linkedin.com/in/kirshanthan"
+      - text: "**ORCID**"
+        url: "https://orcid.org/0000-0001-6384-062X"
       - text: "**CV**"
         file: files/cv/cv.pdf
 ---
