@@ -7,4 +7,6 @@ website: "https://poorna2152.github.io/"
 publications:
   - venue: "SPIN-NVSC 2026"
     path: "publications/workshop/2026nvsc.html"
+  - venue: "PACT 2026"
+    path: "publications/conference/2026pact.html"
 ---

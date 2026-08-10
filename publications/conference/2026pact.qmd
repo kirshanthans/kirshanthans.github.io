@@ -1,0 +1,19 @@
+---
+title: "Splyce: SIMD Vectorization of Sparse Coiteration"
+date: 2026-10-19
+year: 2026
+pdf: ""
+venue: "PACT 2026"
+award: ""
+code: ""
+slides: ""
+preprint: ""
+video: ""
+author:
+  - name: Kabilan Mahathevan 
+  - name: Poorna Gunathilaka 
+  - name: Kirshanthan Sundararajah
+categories:
+  - Conference
+description: ""
+---

@@ -7,4 +7,6 @@ website: "https://kabilan.info/"
 publications:
   - venue: "FUZZING 2026"
     path: "publications/workshop/2026fuzzing.html"
+  - venue: "PACT 2026"
+    path: "publications/conference/2026pact.html"
 ---
