@@ -2,158 +2,162 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/teaching.html</loc>
-    <lastmod>2026-08-10T22:00:37.629Z</lastmod>
+    <lastmod>2026-08-10T22:22:29.928Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/research.html</loc>
-    <lastmod>2026-08-10T22:00:37.932Z</lastmod>
+    <lastmod>2026-08-10T22:22:30.293Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/service.html</loc>
-    <lastmod>2026-08-10T22:00:38.228Z</lastmod>
+    <lastmod>2026-08-10T22:22:30.586Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/publications/journal/2024taco.html</loc>
-    <lastmod>2026-08-10T22:00:38.585Z</lastmod>
+    <lastmod>2026-08-10T22:22:30.905Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/publications/manuscript/2026arxivb.html</loc>
-    <lastmod>2026-08-10T22:00:38.862Z</lastmod>
+    <lastmod>2026-08-10T22:22:31.181Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/publications/manuscript/2026arxivc.html</loc>
-    <lastmod>2026-08-10T22:00:39.153Z</lastmod>
+    <lastmod>2026-08-10T22:22:31.469Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/publications/manuscript/2026arxiva.html</loc>
-    <lastmod>2026-08-10T22:00:39.431Z</lastmod>
+    <lastmod>2026-08-10T22:22:31.728Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/publications/workshop/2026nvsc.html</loc>
-    <lastmod>2026-08-10T22:00:39.692Z</lastmod>
+    <lastmod>2026-08-10T22:22:32.012Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/publications/workshop/2025vmil.html</loc>
-    <lastmod>2026-08-10T22:00:39.952Z</lastmod>
+    <lastmod>2026-08-10T22:22:32.280Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/publications/workshop/2026fuzzing.html</loc>
-    <lastmod>2026-08-10T22:00:40.225Z</lastmod>
+    <lastmod>2026-08-10T22:22:32.547Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/publications/workshop/2026array.html</loc>
-    <lastmod>2026-08-10T22:00:40.489Z</lastmod>
+    <lastmod>2026-08-10T22:22:32.822Z</lastmod>
+  </url>
+  <url>
+    <loc>git@github.com:kirshanthans/kirshanthans.github.io/publications/conference/2026pact.html</loc>
+    <lastmod>2026-08-10T22:22:33.088Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/publications/conference/2026pldi.html</loc>
-    <lastmod>2026-08-10T22:00:40.752Z</lastmod>
+    <lastmod>2026-08-10T22:22:33.352Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/publications/conference/2022ics.html</loc>
-    <lastmod>2026-08-10T22:00:41.012Z</lastmod>
+    <lastmod>2026-08-10T22:22:33.618Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/publications/conference/2017asplos.html</loc>
-    <lastmod>2026-08-10T22:00:41.273Z</lastmod>
+    <lastmod>2026-08-10T22:22:33.882Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/publications/conference/2024oopsla.html</loc>
-    <lastmod>2026-08-10T22:00:41.535Z</lastmod>
+    <lastmod>2026-08-10T22:22:34.144Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/publications/conference/2022oopsla.html</loc>
-    <lastmod>2026-08-10T22:00:41.799Z</lastmod>
+    <lastmod>2026-08-10T22:22:34.439Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/publications/conference/2017oopsla.html</loc>
-    <lastmod>2026-08-10T22:00:42.065Z</lastmod>
+    <lastmod>2026-08-10T22:22:34.704Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/publications/conference/2016mercon.html</loc>
-    <lastmod>2026-08-10T22:00:42.334Z</lastmod>
+    <lastmod>2026-08-10T22:22:34.977Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/publications/conference/2022cgo.html</loc>
-    <lastmod>2026-08-10T22:00:42.599Z</lastmod>
+    <lastmod>2026-08-10T22:22:35.237Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/publications/conference/2019pldia.html</loc>
-    <lastmod>2026-08-10T22:00:42.859Z</lastmod>
+    <lastmod>2026-08-10T22:22:35.502Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/publications/conference/2019pldib.html</loc>
-    <lastmod>2026-08-10T22:00:43.113Z</lastmod>
+    <lastmod>2026-08-10T22:22:35.751Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/publications/conference/2026oopsla.html</loc>
-    <lastmod>2026-08-10T22:00:43.369Z</lastmod>
+    <lastmod>2026-08-10T22:22:36.014Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/publications/conference/2025ppopp.html</loc>
-    <lastmod>2026-08-10T22:00:43.633Z</lastmod>
+    <lastmod>2026-08-10T22:22:36.270Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/publications/conference/2023cc.html</loc>
-    <lastmod>2026-08-10T22:00:43.938Z</lastmod>
+    <lastmod>2026-08-10T22:22:36.529Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/publications/conference/2021gpce.html</loc>
-    <lastmod>2026-08-10T22:00:44.224Z</lastmod>
+    <lastmod>2026-08-10T22:22:36.810Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/publications/conference/2026ecoop.html</loc>
-    <lastmod>2026-08-10T22:00:44.495Z</lastmod>
+    <lastmod>2026-08-10T22:22:37.089Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/publications/conference/2017ispass.html</loc>
-    <lastmod>2026-08-10T22:00:44.765Z</lastmod>
+    <lastmod>2026-08-10T22:22:37.355Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/publications/conference/2014isvc.html</loc>
-    <lastmod>2026-08-10T22:00:45.043Z</lastmod>
+    <lastmod>2026-08-10T22:22:37.630Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/awards.html</loc>
-    <lastmod>2026-08-10T22:00:45.365Z</lastmod>
+    <lastmod>2026-08-10T22:22:37.894Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/index.html</loc>
-    <lastmod>2026-08-10T22:00:45.683Z</lastmod>
+    <lastmod>2026-08-10T22:22:38.181Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/students.html</loc>
-    <lastmod>2026-08-10T22:00:45.992Z</lastmod>
+    <lastmod>2026-08-10T22:22:38.487Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/publications.html</loc>
-    <lastmod>2026-08-10T22:00:46.405Z</lastmod>
+    <lastmod>2026-08-10T22:22:38.908Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/students/current/muhammad_hassan.html</loc>
-    <lastmod>2026-08-10T22:00:48.154Z</lastmod>
+    <lastmod>2026-08-10T22:22:40.564Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/students/current/kabilan_mahathevan.html</loc>
-    <lastmod>2026-08-10T22:00:48.402Z</lastmod>
+    <lastmod>2026-08-10T22:22:40.812Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/students/current/poorna_gunathilaka.html</loc>
-    <lastmod>2026-08-10T22:00:48.644Z</lastmod>
+    <lastmod>2026-08-10T22:22:41.091Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/students/current/john_mciver.html</loc>
-    <lastmod>2026-08-10T22:00:48.912Z</lastmod>
+    <lastmod>2026-08-10T22:22:41.375Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/students/current/yining_zhang.html</loc>
-    <lastmod>2026-08-10T22:00:49.174Z</lastmod>
+    <lastmod>2026-08-10T22:22:41.640Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/students/former/srinivasan_ramachandra_sharma.html</loc>
-    <lastmod>2026-08-10T22:00:49.420Z</lastmod>
+    <lastmod>2026-08-10T22:22:41.900Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kirshanthans/kirshanthans.github.io/students/former/yuze_li.html</loc>
-    <lastmod>2026-08-10T22:00:49.667Z</lastmod>
+    <lastmod>2026-08-10T22:22:42.150Z</lastmod>
   </url>
 </urlset>
