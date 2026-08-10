@@ -20,7 +20,8 @@ Sparse tensors and matrices, where the vast majority of entries are zero, arise 
 [OOPSLA 2024](publications/conference/2024oopsla.qmd) | 
 
 [ARXIV 2026](publications/manuscript/2026arxiva.qmd) |
-[FUZZING 2026](publications/workshop/2026fuzzing.qmd) 
+[FUZZING 2026](publications/workshop/2026fuzzing.qmd) |
+[PACT 2026](publications/conference/2026pact.qmd)
 
 ## Optimizing Recursive Programs
 
