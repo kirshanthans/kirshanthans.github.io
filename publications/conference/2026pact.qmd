@@ -5,7 +5,7 @@ year: 2026
 pdf: ""
 venue: "PACT 2026"
 award: ""
-code: ""
+code: "https://doi.org/10.5281/zenodo.21878753"
 slides: ""
 preprint: ""
 video: ""
