@@ -4,6 +4,7 @@ title: Courses
 
 | Course | Title | Term |
 |:--|:--|--:|
+| CS 3114 | Data Structures and Algorithms | [Fall 2026]() |
 | CS 4114 | Formal Languages and Automata Theory | [Spring 2026](https://canvas.vt.edu/courses/223948) |
 | CS 5304 | Translator Design and Construction | [Fall 2025](https://canvas.vt.edu/courses/215664) |
 | CS 4304 | Compiler Design | [Fall 2025](https://canvas.vt.edu/courses/215511) |
