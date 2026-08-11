@@ -7,7 +7,7 @@ venue: "SPIN-NVSC 2026"
 award: ""
 code: ""
 slides: ""
-preprint: ""
+preprint: "https://arxiv.org/pdf/2608.09647"
 video: ""
 author:
   - name: Poorna Gunathilaka
