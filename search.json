@@ -109,7 +109,7 @@
     "href": "publications/workshop/2026nvsc.html",
     "title": "Home",
     "section": "",
-    "text": "A Preliminary Study on Simultaneous Coscheduling for Discrete GPU vs. Fused GPU\n    Poorna Gunathilaka, Nabayan Chaudhury, Kirshanthan Sundararajah, Wu-chun Feng\n      SPIN-NVSC 2026\n    \n  PDF"
+    "text": "A Preliminary Study on Simultaneous Coscheduling for Discrete GPU vs. Fused GPU\n    Poorna Gunathilaka, Nabayan Chaudhury, Kirshanthan Sundararajah, Wu-chun Feng\n      SPIN-NVSC 2026\n    Preprint\n  PDF"
   },
   {
     "objectID": "publications/workshop/2025vmil.html",
@@ -312,7 +312,7 @@
     "href": "publications.html#workshop-papers",
     "title": "Publications",
     "section": "Workshop Papers",
-    "text": "Workshop Papers\n\n\n\nA Preliminary Study on Simultaneous Coscheduling for Discrete GPU vs. Fused GPU\n\n\nPoorna Gunathilaka, Nabayan Chaudhury, Kirshanthan Sundararajah, Wu-chun Feng\n\n\nSPIN-NVSC 2026\n\nPDF\n\n\n\nPortable Anomaly Detection for Distributed PGAS Programs Based on Array Mapping Abstractions\n\n\nRaneem Abuyosef, Thomas Huddleston, Kirshanthan Sundararajah, Martin Kong\n\n\nARRAY 2026\n\nPDF\n\n\n\nTenSure: Fuzzing Sparse Tensor Compilers\n\n\nKabilan Mahathevan, Yining Zhang, Muhammad Ali Gulzar, Kirshanthan Sundararajah\n\n\nFUZZING 2026\n\nPreprint PDF Code Slides\n\n\n\nMemory Tiering in Python Virtual Machine\n\n\nYuze Li, Shunyu Yao, Jaiaid Mobin, Tianyu Zhan, M. Mustafa Rafique, Dimitrios Nikolopoulos, Kirshanthan Sundararajah, Ali R. Butt\n\n\nVMIL 2025\n\nPDF Slides\n\n\nNo matching items"
+    "text": "Workshop Papers\n\n\n\nA Preliminary Study on Simultaneous Coscheduling for Discrete GPU vs. Fused GPU\n\n\nPoorna Gunathilaka, Nabayan Chaudhury, Kirshanthan Sundararajah, Wu-chun Feng\n\n\nSPIN-NVSC 2026\n\nPreprint PDF\n\n\n\nPortable Anomaly Detection for Distributed PGAS Programs Based on Array Mapping Abstractions\n\n\nRaneem Abuyosef, Thomas Huddleston, Kirshanthan Sundararajah, Martin Kong\n\n\nARRAY 2026\n\nPDF\n\n\n\nTenSure: Fuzzing Sparse Tensor Compilers\n\n\nKabilan Mahathevan, Yining Zhang, Muhammad Ali Gulzar, Kirshanthan Sundararajah\n\n\nFUZZING 2026\n\nPreprint PDF Code Slides\n\n\n\nMemory Tiering in Python Virtual Machine\n\n\nYuze Li, Shunyu Yao, Jaiaid Mobin, Tianyu Zhan, M. Mustafa Rafique, Dimitrios Nikolopoulos, Kirshanthan Sundararajah, Ali R. Butt\n\n\nVMIL 2025\n\nPDF Slides\n\n\nNo matching items"
   },
   {
     "objectID": "publications.html#manuscripts",
