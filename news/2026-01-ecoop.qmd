@@ -1,6 +1,0 @@
----
-title: "ECOOP Paper Acceptance"
-date: 2026-01-29
----
-
-Replace this file's content with a real news update, or delete it.

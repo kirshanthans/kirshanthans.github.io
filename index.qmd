@@ -25,15 +25,6 @@ about:
         url: "https://orcid.org/0000-0001-6384-062X"
       - text: "**CV**"
         file: files/cv/cv.pdf
-listing:
-  - id: news-listing
-    contents: news/*.qmd
-    type: custom
-    template: _news-listing.ejs
-    sort: "date desc"
-    date-format: "MMM YYYY"
-    max-items: 4
-    fields: [title, date]
 ---
 
 * **Position**: Assistant Professor
@@ -43,15 +34,11 @@ listing:
 
 My research interests span the areas of compilers, programming langauges and high-performance computing.
 I am particularly interested in solving performance and correctness challenges arise from the irregularity in computations.
+
+My work spans following threads: control-flow regularization to improve performance and program analysis, building compiler infrastructure for sparse tensor computations, and developing principled approaches for transforming and optimizing recursive programs. 
 See [Research](research.qmd) for more.
 
 ## Brief Bio
 I received my PhD from [Purdue University](https://purdue.edu) where I was fortunate enough to advised by [Milind Kulkarni](https://engineering.purdue.edu/~milind).
 I was part of [PurPL](https://purduepl.github.io) at Purdue University.
 I earned my Bachelor's in Electronic and Telecommunication Engineering from [University of Moratuwa](https://uom.lk).
-
-## News
-
-<!-- Add/edit news items as .qmd files in the news/ folder. The 4 most recent (by date) show here. -->
-:::{#news-listing}
-:::
