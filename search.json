@@ -270,7 +270,7 @@
     "href": "index.html",
     "title": "Kirshanthan (“Krish”) Sundararajah",
     "section": "",
-    "text": "Position: Assistant Professor\nEmail: kirshanthans@vt.edu\nAffiliation: Virginia Tech | Computer Science\nOffice: GP 4103\nMy research interests span the areas of compilers, programming langauges and high-performance computing. I am particularly interested in solving performance and correctness challenges arise from the irregularity in computations.\nMy work spans following threads: control-flow regularization to improve performance and program analysis, building compiler infrastructure for sparse tensor computations, and developing principled approaches for transforming and optimizing recursive programs. See my Research page for more."
+    "text": "Position: Assistant Professor\nEmail: kirshanthans@vt.edu\nAffiliation: Virginia Tech | Computer Science\nOffice: GP 4103\nMy research interests span the areas of compilers, programming langauges and high-performance computing. I am particularly interested in solving performance and correctness challenges arise from the irregularity in computations.\nMy work spans following threads: control-flow regularization to improve performance and program analysis, building compiler infrastructure for sparse tensor computations, and developing principled approaches for transforming and optimizing recursive programs. See Research for more."
   },
   {
     "objectID": "index.html#brief-bio",
