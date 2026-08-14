@@ -1,0 +1,6 @@
+---
+title: "PLDI Paper Acceptance"
+date: 2026-03-05
+---
+
+Replace this file's content with a real news update, or delete it.

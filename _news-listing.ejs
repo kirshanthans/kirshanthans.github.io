@@ -1,0 +1,6 @@
+<% for (const item of items) { %>
+<div class="news-item">
+  <span class="news-date"><%= item.date %></span>
+  <span class="news-text"><a href="<%= item.path %>"><%- item.title %></a></span>
+</div>
+<% } %>

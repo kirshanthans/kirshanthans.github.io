@@ -50,6 +50,48 @@
   padding-left: 1rem;
 }
 
+/* News block */
+#listing-news-listing {
+  margin-top: 0.5rem;
+}
+
+.news-item {
+  display: flex;
+  gap: 1rem;
+  align-items: baseline;
+  padding: 0.6rem 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.news-item:last-child {
+  border-bottom: none;
+}
+
+.news-date {
+  flex: 0 0 auto;
+  min-width: 85px;
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: #CF4420;
+  letter-spacing: 0.03em;
+}
+
+.news-text {
+  font-size: 0.9rem;
+  color: #ccc;
+  line-height: 1.5;
+}
+
+.news-text a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.news-text a:hover {
+  color: #CF4420;
+  text-decoration: underline;
+}
+
 /* Student cards */
 .student-grid {
   display: grid;
