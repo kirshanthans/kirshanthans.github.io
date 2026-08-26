@@ -6,7 +6,7 @@ pdf: "https://drops.dagstuhl.de/storage/00lipics/lipics-vol372-ecoop2026/LIPIcs.
 venue: "ECOOP 2026"
 award: ""
 code: "https://doi.org/10.5281/zenodo.19598511"
-slides: ""
+slides: "files/slides/ecoop2026.pptx"
 preprint: "https://arxiv.org/pdf/2512.22390"
 video: ""
 author:
