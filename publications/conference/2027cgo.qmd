@@ -12,7 +12,6 @@ video: ""
 author:
   - name: Pratyush Das
   - name: Amirhossein Basareh
-  - name: Adhitha Dias
   - name: Artem Pelenitsyn
   - name: Kirshanthan Sundararajah
   - name: Milind Kulkarni
