@@ -1,0 +1,23 @@
+---
+title: "Bring Your Own Formats and Kernels: Composable Abstractions for Sparse Matrix Computation"
+date: 2027-03-01"
+year: 2027
+pdf: ""
+venue: "CGO 2027"
+award: ""
+code: ""
+slides: ""
+preprint: "https://arxiv.org/pdf/2407.00829"
+video: ""
+author:
+  - name: Pratyush Das
+  - name: Amirhossein Basareh
+  - name: Adhitha Dias
+  - name: Artem Pelenitsyn
+  - name: Kirshanthan Sundararajah
+  - name: Milind Kulkarni
+  - name: Ben Delaware
+categories:
+  - Conference
+description: ""
+---

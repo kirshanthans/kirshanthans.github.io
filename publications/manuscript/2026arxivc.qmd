@@ -1,26 +1,19 @@
 ---
-title: "nomp: A Framework for Building Domain Specific Compilers"
-date: 2026-06-10"
+title: "SparseConflicts: Handling Conflicting Data Layouts in Sparse Tensor Contractions"
+date: 2026-09-06"
 year: 2026
 pdf: ""
 venue: "Arxiv 2026"
 award: ""
 code: ""
 slides: ""
-preprint: "https://arxiv.org/pdf/2606.12650"
+preprint: "https://arxiv.org/pdf/2609.06328"
 video: ""
 author:
-  - name: Thilina Ratnayaka
-  - name: Kaushik Kulkarni
-  - name: Nipuna Fernando
-  - name: Pubudu Hewavitharana
-  - name: Hirumal Priyashan
-  - name: Poorna Gunathilaka
-  - name: Nagitha Abeywickrema
-  - name: Ravindu Hirimuthugoda
-  - name: Tarun Prabhu
+  - name: Adhitha Dias
   - name: Kirshanthan Sundararajah
-  - name: Sanath Jayasena
+  - name: Artem Pelenitsyn
+  - name: Milind Kulkarni
 categories:
   - Manuscript
 description: ""

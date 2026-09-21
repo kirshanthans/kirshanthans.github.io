@@ -1,18 +1,26 @@
 ---
-title: "Assessing Large Language Models for Stabilizing Numerical Expressions in Scientific Software"
-date: 2026-04-08"
+title: "nomp: A Framework for Building Domain Specific Compilers"
+date: 2026-06-10"
 year: 2026
 pdf: ""
 venue: "Arxiv 2026"
 award: ""
 code: ""
 slides: ""
-preprint: "https://arxiv.org/pdf/2604.04854"
+preprint: "https://arxiv.org/pdf/2606.12650"
 video: ""
 author:
-  - name: Tien Nguyen
+  - name: Thilina Ratnayaka
+  - name: Kaushik Kulkarni
+  - name: Nipuna Fernando
+  - name: Pubudu Hewavitharana
+  - name: Hirumal Priyashan
+  - name: Poorna Gunathilaka
+  - name: Nagitha Abeywickrema
+  - name: Ravindu Hirimuthugoda
+  - name: Tarun Prabhu
   - name: Kirshanthan Sundararajah
-  - name: Muhammad Ali Gulzar
+  - name: Sanath Jayasena
 categories:
   - Manuscript
 description: ""
