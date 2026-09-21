@@ -14,6 +14,7 @@
   {
     "listing": "/publications.html",
     "items": [
+      "/publications/conference/2027cgo.html",
       "/publications/conference/2026pact.html",
       "/publications/conference/2026ecoop.html",
       "/publications/conference/2026pldi.html",
