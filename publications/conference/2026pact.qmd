@@ -7,7 +7,7 @@ venue: "PACT 2026"
 award: ""
 code: "https://doi.org/10.5281/zenodo.21878753"
 slides: ""
-preprint: ""
+preprint: "https://arxiv.org/pdf/2609.19410"
 video: ""
 author:
   - name: Kabilan Mahathevan 
