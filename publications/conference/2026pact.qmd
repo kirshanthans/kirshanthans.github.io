@@ -4,9 +4,9 @@ date: 2026-10-19
 year: 2026
 pdf: ""
 venue: "PACT 2026"
-award: ""
+award: "Winner of Chameleon Cloud Reproducibility Challenge"
 code: "https://doi.org/10.5281/zenodo.21878753"
-slides: ""
+slides: "files/slides/pact2026.pptx"
 preprint: "https://arxiv.org/pdf/2609.19410"
 video: ""
 author:
