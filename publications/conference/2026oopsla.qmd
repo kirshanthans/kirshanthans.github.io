@@ -6,7 +6,7 @@ pdf: "https://dl.acm.org/doi/pdf/10.1145/3798202"
 venue: "OOPSLA 2026"
 award: ""
 code: "https://zenodo.org/records/19115620"
-slides: ""
+slides: "files/slides/oopsla2026.pptx"
 preprint: "https://arxiv.org/pdf/2308.01554.pdf"
 video: ""
 author:
