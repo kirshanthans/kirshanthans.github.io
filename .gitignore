@@ -3,3 +3,5 @@ CLAUDE.md
 _site
 .quarto
 /.quarto/
+
+**/*.quarto_ipynb
