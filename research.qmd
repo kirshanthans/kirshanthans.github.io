@@ -19,9 +19,9 @@ Sparse tensors and matrices, where the vast majority of entries are zero, arise 
 [ICS 2022](publications/conference/2022ics.qmd) |
 [OOPSLA 2024](publications/conference/2024oopsla.qmd) | 
 
-[ARXIV 2026](publications/manuscript/2026arxiva.qmd) |
 [FUZZING 2026](publications/workshop/2026fuzzing.qmd) |
-[PACT 2026](publications/conference/2026pact.qmd)
+[PACT 2026](publications/conference/2026pact.qmd) |
+[CGO 2027](publications/conference/2027cgo.qmd)
 
 ## Optimizing Recursive Programs
 
