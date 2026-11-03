@@ -5,6 +5,8 @@ title: Service
 
 | |
 |:--|
+|Program Co-chair ([CGO SRC](https://2027.cgo.org/committee/cgo-2027-src-program-committee)) |
+|Program Committee ([ICS](https://ics2027.github.io/committee/))|
 |Program Committee ([IPDPS](https://www.ipdps.org/ipdps2027/2027-program-committee.html)) |
 
 ## 2026
